@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+*.venv/
+
+# Development environments
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+
+# macOS folder attributes
+.DS_Store
+
+# Jupyter Notebook and IPython specific
+.ipynb_checkpoints/
+
+# Pipenv
+Pipfile.lock
+
+# MyPy
+.mypy_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Compiled translations
+*.mo
+
+# Temporary files
+*.tmp
+
+# Logs
+*.log
+
+# Windows folder attributes
+Desktop.ini
+
+# Editors
+*.swp
+*~
+
+# Data
+data/
