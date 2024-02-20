@@ -1,0 +1,109 @@
+Key,row_number,date,axle_position,td,pressure,tire_size,brand,product_line,parts;;;;;;;;;;;
+"ST-GS1851,8.0,2023-08-09,1SR,16.2,9.0,315/70R22.5,GOODYEAR,KMAX,""['315/70R22.5', 'KMAX', 'S', 'G2', 'HL', '156/150L', '3PSF']""";;;;;;;;;;;leave out, I already put those tires in
+"ST-GS2029,97.0,2023-08-11,1SR,3.0,8.8,315/70R22.5,GOODYEAR,KMAX,""['315/70R22.5', 'KMAX', 'S', 'G2', 'HL', '156/150L', '3PSF']""";;;;;;;;;;;leave out, I already put those tires in
+"ST-GS2119,197.0,2023-10-14,1SR,10.0,10.0,315/70R22.5,MICHELIN,X LINE ENERGY,""['315/70R22.5', '156L150L', 'X', 'LINE', 'ENERGY', 'Z']""";;;;;;;;;;;leave out, I already put those tires in
+ST-GS4002,,,,,,,,,;;;;;;;;;;;take tire with ID SHN34379 for 3 axle right side
+"ST-GS4003,396.0,2023-08-12,1TR,17.6,9.0,385/65R22.5,DUNLOP,SP247,""['385/65R22.5', 'SP247', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take Dunlop tires for the 1 axle
+"ST-GS4005,410.0,2023-09-23,3TR,14.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take Fulda tires for 1-axle
+"ST-GS4007,420.0,2023-09-09,3TR,14.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take tires with tread depth 14 for 1 and 3 axle
+"ST-GS4008,431.0,2023-09-15,3TR,14.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take tires with tread depth 14 for 1 and 3 axle
+"ST-GS4050,453.0,2023-08-16,3TR,14.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take tires with ID 1936836057 and 7948374461 for 1 axle and tires with tread depth 14 for 3 axle
+"ST-GS4055,479.0,2023-04-08,3TR,10.5,9.0,385/65R22.5,MICHELIN,XTE3,""['385/65R22.5', '160J158L', 'XTE3', 'VG', '20']""";;;;;;;;;;;take tire SHIO54541 for 3 axle right side
+"ST-GS4103,515.0,2023-10-02,3TR,14.1,9.0,385/65R22.5,PIRELLI,IT-T90,""['385/65R22.5', '160K158L', 'IT-T90']""";;;;;;;;;;;leave out, need to ask client
+"ST-GS4610,842.0,2023-09-21,3TR,5.0,9.0,385/65R22.5,BRIDGESTONE,DURAVIS,""['385/65R22.5', '160K158L', 'DURAVIS', 'R-STEER', '002']""";;;;;;;;;;;take tire JYT63546 for 1axle left and M2R830428 for 3axle right
+"ST-GS4654,862.0,2023-09-21,3TR,15.0,9.0,385/65R22.5,BRIDGESTONE,R179,""['385/65R22.5', '160K158L', 'R179']""";;;;;;;;;;;take tires JYT6366E and 3BD5222 for 3 axle
+"ST-GS4750,871.0,2023-09-21,3TR,5.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take Pirelli tires for 1 axle and 36525165 for 3 axle right side
+ST-GS4756,,,,,,,,,;;;;;;;;;;;leave out, need to ask client
+"ST-GS4758,925.0,2023-09-14,3TR,2.0,8.6,385/65R22.5,MICHELIN,XTE3,""['385/65R22.5', '160J158L', 'XTE3']""";;;;;;;;;;;take tires with tread depth 13 for 1 axle and 8 for 3 axle from 14.09.2023
+"ST-GS4804,968.0,2023-09-06,3TR,12.0,9.2,385/65R22.5,GOODYEAR,KMAX,""['385/65R22.5', 'KMAX', 'T', 'G2', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;leave out, need to ask client
+ST-GS4805,,,,,,,,,;;;;;;;;;;;take values from 06.06.23
+"ST-GS4830,1004.0,2023-04-13,3TR,17.6,9.0,385/65R22.5,DUNLOP,SP247,""['385/65R22.5', 'SP247', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take tires with 17,6 tread depth
+"ST-GS4835,1016.0,2023-05-11,3TL,14.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take 38773755 for 3 axle left
+"ST-GS4855,1056.0,2023-04-04,3TR,3.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take tires with 17,6 tread depth
+ST-GS6051,,,,,,,,,;;;;;;;;;;;take values from 21.07.2023
+ST-GS6707,,,,,,,,,;;;;;;;;;;;take values from 08.07.2023
+"ST-GS74,1200.0,2023-09-11,1SL,16.2,9.0,315/70R22.5,GOODYEAR,KMAX,""['315/70R22.5', 'KMAX', 'S', 'G2', 'HL', '156/150L', '3PSF']""";;;;;;;;;;;leave out, need to ask client
+"ST-C1140,1220.0,2023-06-13,1TR,3.0,9.2,385/65R22.5,FULDA,ECOTONN2,""['385/65R22.5', 'ECOTONN2', 'HL', '164K158L', 'M+S']""";;;;;;;;;;;leave out, Jess already put those tires in
+"ST-C238,1282.0,2023-08-31,1TR,12.0,8.7,385/65R22.5,MICHELIN,LINE ENERGY F,""['385/65R22.5', 'X', 'LINE', 'ENERGY', 'F', 'VB']""";;;;;;;;;;;leave out, Jess already put those tires in
+"ST-C6545,1354.0,2023-08-28,1TL,14.0,9.0,385/55R22.5,FULDA,ECOTONN,""['385/55R22.5', 'ECOTONN', '2', '160K158L', 'M+S']""";;;;;;;;;;;leave out, need to ask client
+"ST-HS1732,1464.0,2023-04-25,3TR,17.6,9.0,385/65R22.5,DUNLOP,SP247,""['385/65R22.5', 'SP247', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take tires with tread depth 17,6 for 3 axle
+"ST-HS1734,1487.0,2023-06-03,1TR,9.0,9.0,385/65R22.5,MICHELIN,X LINE ENERGY,""['385/65R22.5', '160K158L', 'X', 'LINE', 'ENERGY', 'T', 'VB']""";;;;;;;;;;;take tire SHI02515M for 1 axle
+"ST-HS1737,1505.0,2023-09-09,3TR,14.0,9.0,385/65R22.5,PIRELLI,IT-T90,""['385/65R22.5', '160K158L', 'IT-T90']""";;;;;;;;;;;take tires with tread depth 14 for 3 axle
+"ST-HS1834,1546.0,2023-08-26,1TR,2.0,8.7,385/65R22.5,MICHELIN,X MULTI T,""['385/65R22.5', '160K158L', 'X', 'MULTI', 'T', 'VM']""";;;;;;;;;;;take tire 7996532852 for 1 axle
+"ST-HS1880,1558.0,2023-08-21,3TR,6.0,9.2,385/65R22.5,GOODYEAR,KMAX,""['385/65R22.5', 'KMAX', 'T', 'G2', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take tires with tread depth 14 for 3 axle
+"ST-HS1881,1565.0,2023-09-01,3TR,13.0,9.0,385/65R22.5,PIRELLI,IT-T90,""['385/65R22.5', '160K158L', 'IT-T90']""";;;;;;;;;;;take tire JYT6513A for 3 axle right
+"ST-HS1918,1624.0,2023-08-05,1TR,17.6,9.0,385/65R22.5,DUNLOP,SP247,""['385/65R22.5', 'SP247', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take tire 6016733312 for 1 axle right
+"ST-HS1923,1650.0,2023-08-19,1TL,14.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take tire 799362698 for 1 axle left
+"ST-HS1941,1717.0,2023-09-27,3TR,16.0,9.0,385/65R22.5,PIRELLI,IT-T90,""['385/65R22.5', '160K158L', 'IT-T90']""";;;;;;;;;;;take tires JYA9586F and JYT6883C
+"ST-HS1951,1725.0,2023-10-19,3TR,2.0,9.2,385/65R22.5,MICHELIN,XZY3 160K REMIX,""['385/65R22.5', 'TL', 'XZY3', '160K', 'REMIX', 'K']""";;;;;;;;;;;take tires with tread depth 14 for 3 axle
+"ST-HS1952,1735.0,2023-08-04,1TR,4.0,8.5,385/65R22.5,MICHELIN,XTE3,""['385/65R22.5', '160J158L', 'XTE3', 'VG', '20']""";;;;;;;;;;;take tires with tread depth 14 for 1 axle
+"ST-HS1979,1804.0,2023-09-07,1TR,16.0,9.0,385/65R22.5,PIRELLI,IT-T90,""['385/65R22.5', '160K158L', 'IT-T90']""";;;;;;;;;;;leave out, need to ask client
+ST-HS1980,,,,,,,,,;;;;;;;;;;;take values from 07.10.2023
+"ST-HS2023,1841.0,2023-10-19,3TR,2.0,7.8,385/65R22.5,GOODYEAR,FUELMAX,""['385/65R22.5', 'FUELMAX', 'T', 'HL', '164K158L', 'M+S', 'TL']""";;;;;;;;;;;take tire JYA7087E for 3 axle right
+"ST-HS2024,1844.0,2023-05-20,1TR,9.0,9.5,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;leave out, need to ask client
+ST-HS2027,,,,,,,,,;;;;;;;;;;;take values from 25.08.2023
+"ST-HS2105,1918.0,2023-08-31,3TR,16.0,9.0,385/65R22.5,PIRELLI,IT-T90,""['385/65R22.5', '160K158L', 'IT-T90']""";;;;;;;;;;;leave out, need to ask client
+ST-HS2112,,,,,,,,,;;;;;;;;;;;take values from 13.10.2023
+"ST-HS2113,1947.0,2023-05-12,1TR,1.0,9.0,385/65R22.5,GOODYEAR,FUELMAX,""['385/65R22.5', 'FUELMAX', 'T', 'HL', '164K158L', 'M+S', 'TL']""";;;;;;;;;;;take tires with tread depth 15 for 1 axle
+ST-HS2117,,,,,,,,,;;;;;;;;;;;take values from 04.08.2023
+"ST-HS2118,1983.0,2023-05-13,3TR,15.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take tires with tread depth 15 for 1 and 3 axle
+"ST-HS527,2150.0,2023-08-19,1TL,14.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take 7996532547 for 1 axle left
+"ST-HS536,2183.0,2023-10-19,3TR,3.0,9.2,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;leave out, need to ask client
+"ST-HS539,2192.0,2023-07-08,1TR,3.5,8.5,385/65R22.5,MICHELIN,X MULTI HL,""['385/65R22.5', '164K', 'X', 'MULTI', 'HL', 'T']""";;;;;;;;;;;take tire 37779192 for 1 axle right
+"ST-HS543,2206.0,2023-10-19,3TR,14.0,9.0,385/65R22.5,PIRELLI,IT-T90,""['385/65R22.5', '160K158L', 'IT-T90']""";;;;;;;;;;;take tires with tread depth 14 for 1 and 3 axle
+ST-HS544,,,,,,,,,;;;;;;;;;;;take values from 19.05.2023
+"ST-HS553,2260.0,2023-09-07,3TR,11.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take tires with 16 tread depth for 1 axle and 38582725 for 3 axle right
+ST-HS560,,,,,,,,,;;;;;;;;;;;take tires with tread depth 14 for 3 axle
+"ST-HS565,2295.0,2023-08-29,1TR,13.0,9.0,385/65R22.5,PIRELLI,IT-T90,""['385/65R22.5', '160K158L', 'IT-T90']""";;;;;;;;;;;take JYT4294E on 1 axle right side
+"ST-HS572,2342.0,2023-06-24,3TL,8.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take 38032433 for 3 axle left
+"ST-HS573,2350.0,2023-08-05,3TL,6.4,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take 1934215466 for 1 axle right and 7962710058 for 3 axle right
+"ST-HS574,2357.0,2023-10-23,3TL,14.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take 37780652 for 3 axle left
+"ST-HS599,2389.0,2023-08-31,3TR,6.0,6.9,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;leave out, need to ask client
+ST-HS6566,,,,,,,,,;;;;;;;;;;;leave out line 2466 which doesn´t have tire values
+"ST-HS728,2500.0,2023-09-30,3TR,14.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take values from 31.08.2023
+"ST-HS739,2538.0,2023-05-13,3TR,17.6,9.0,385/65R22.5,DUNLOP,SP247,""['385/65R22.5', 'SP247', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;leave out, need to ask client
+"ST-HS742,2541.0,2023-08-04,1TR,11.0,9.0,385/65R22.5,PIRELLI,ST:01,""['385/65R22.5', '160K158L', 'ST:01']""";;;;;;;;;;;take SHE85774 for 1 axle right
+"ST-HS746,2574.0,2023-09-21,2TR,3.5,8.7,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;leave out, need to ask client
+"ST-HS758,2617.0,2023-09-30,3TR,14.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take 7996616815 for 3 axle right 
+"ST-HS764,2642.0,2023-08-26,3TR,14.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take 7993632679 for 3 axle right
+ST-HS768,,,,,,,,,;;;;;;;;;;;take tires with tread depth 12 for 1 axle
+ST-HS790,,,,,,,,,;;;;;;;;;;;take values from 07.10.2023
+"ST-HS799,2789.0,2023-06-10,1TL,17.6,9.0,385/65R22.5,DUNLOP,SP247,""['385/65R22.5', 'SP247', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take 6015304762 for 1 axle left
+"ST-HS807,2810.0,2023-06-10,1TR,4.0,8.5,385/65R22.5,FULDA,ECOTONN2,""['385/65R22.5', 'ECOTONN2', 'HL', '164K158L', 'M+S']""";;;;;;;;;;;take tires with 17,6 for 1 axle
+ST-HS817,2850.0,2023-10-02,3TR,7.5,8.9,385/65R22.5,STEINKUHLER,TRAILER,['nan'];;;;;;;;;;;take values from lines 2845-2850
+ST-HS818,,,,,,,,,;;;;;;;;;;;take values from 07.10.2023
+ST-MS584,,,,,,,,,;;;;;;;;;;;take values from 19.10.2023
+"ST-SI1870,2954.0,2023-07-08,1SR,7.0,9.0,315/70R22.5,MICHELIN,X LINE ENERGY,""['315/70R22.5', '156L150L', 'X', 'LINE', 'ENERGY', 'Z']""";;;;;;;;;;;take tires with tread depth 7 for 1 axle
+"ST-SI1901,2974.0,2023-05-22,1SR,16.1,9.0,315/70R22.5,GOODYEAR,KMAX,""['315/70R22.5', 'KMAX', 'S', 'G2', 'HL', '156/150L', '3PSF']""";;;;;;;;;;;take tires with tread depth 16,1 for 1 axle
+"ST-SI1919,3024.0,2023-05-17,1SR,9.0,9.0,315/70R22.5,MICHELIN,X MULTI ENERGY,""['315/70R22.5', '156/150L', 'X', 'MULTI', 'ENERGY', 'Z', 'VQ']""";;;;;;;;;;;leave out, need to ask client
+"ST-SI1942,3074.0,2023-06-10,1SR,16.1,9.0,315/70R22.5,GOODYEAR,KMAX,""['315/70R22.5', 'KMAX', 'S', 'G2', 'HL', '156/150L', '3PSF']""";;;;;;;;;;;leave out, need to ask client
+"ST-SI2035,3136.0,2023-06-13,1DIR,2.0,8.0,315/70R22.5,MICHELIN,X MULTI D,""['315/70R22.5', '154/150L', 'X', 'MULTI', 'D', 'VG']""";;;;;;;;;;;leave out, need to ask client
+"ST-SI2078,3182.0,2023-09-16,1DIR,9.0,7.5,315/70R22.5,GOODYEAR,UG,""['315/70R22.5', 'UG', 'MAX', 'D', '154L152M', '3PSF']""";;;;;;;;;;;leave out, need to ask client
+"ST-SI2107,3209.0,2023-08-04,1SR,11.0,9.0,315/70R22.5,MICHELIN,X LINE ENERGY,""['315/70R22.5', '156/150L', 'X', 'LINE', 'ENERGY', 'Z2', 'VB']""";;;;;;;;;;;leave out, need to ask client
+"ST-SI2280,3338.0,2023-05-12,1DIR,9.0,7.7,315/70R22.5,MICHELIN,X MULTI ENERGY,""['315/70R22.5', '156/150L', 'X', 'MULTI', 'ENERGY', 'Z', 'VQ']""";;;;;;;;;;;leave out, need to ask client
+"ST-TA1029,3441.0,2023-05-13,2TR,17.6,9.0,385/65R22.5,DUNLOP,SP247,""['385/65R22.5', 'SP247', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;leave out, need to ask client
+"ST-TA1045,3451.0,2023-08-04,1TL,14.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;leave out, need to ask client
+"ST-TA1062,3502.0,2023-08-19,3TL,14.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take tires with tread depth 14 for 1 axle and 7999575189 for 3 axle left
+"ST-TA1070,3511.0,2023-07-08,1TL,4.0,8.1,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take 1934735276 for 1 axle left
+"ST-TA1074,3523.0,2023-05-27,3TR,17.6,9.0,385/65R22.5,DUNLOP,SP247,""['385/65R22.5', 'SP247', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take 6016107104 for 3 axle right
+ST-TA1092,,,,,,,,,;;;;;;;;;;;take values from 12.09.2023
+"ST-TA127,3583.0,2023-08-30,3TL,14.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;leave out, need to ask client
+"ST-TA1814,3601.0,2023-04-21,1DIR,5.0,8.0,315/70R22.5,MICHELIN,X MULTI D,""['315/70R22.5', '154/150L', 'X', 'MULTI', 'D', 'VG']""";;;;;;;;;;;leave out, need to ask client
+"ST-TA1908,3623.0,2023-08-17,1DIR,2.0,7.2,315/70R22.5,MICHELIN,X MULTI D,""['315/70R22.5', '154/150L', 'X', 'MULTI', 'D', 'VG']""";;;;;;;;;;;leave out, need to ask client
+ST-TA2013,,,,,,,,,;;;;;;;;;;;take values from 21.07.2023
+"ST-TA2022,3679.0,2023-04-29,1DIR,3.0,6.3,315/70R22.5,MICHELIN,X MULTI D,""['315/70R22.5', '154/150L', 'X', 'MULTI', 'D', 'VG']""";;;;;;;;;;;leave out, need to ask client
+"ST-TA2028,3708.0,2023-05-13,1DIR,4.0,7.5,315/70R22.5,MICHELIN,X MULTI D,""['315/70R22.5', '154/150L', 'X', 'MULTI', 'D', 'VG']""";;;;;;;;;;;leave out, need to ask client
+"ST-TA2029,3721.0,2023-08-26,3TR,14.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take 7993632705 for 3 axle right
+"ST-TA2039,3746.0,2023-06-10,3TR,4.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take 6015445677 on 3 axle right
+"ST-TA2049,3750.0,2023-05-27,1TR,17.6,9.0,385/65R22.5,DUNLOP,SP247,""['385/65R22.5', 'SP247', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take tires with 17,6 for 1 axle
+"ST-TA2062,3758.0,2023-04-13,1SR,16.1,9.0,315/70R22.5,GOODYEAR,KMAX,""['315/70R22.5', 'KMAX', 'S', 'G2', 'HL', '156/150L', '3PSF']""";;;;;;;;;;;leave out, need to ask client
+"ST-TA2069,3772.0,2023-07-17,1TR,14.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take tires with 14 tread depth for 1 axle
+"ST-TA2102,3788.0,2023-09-19,1DIL,17.6,8.0,315/70R22.5,GOODYEAR,KMAX,""['315/70R22.5', 'KMAX', 'D', 'G2', '154L152M', '3PSF']""";;;;;;;;;;;leave out, need to ask client
+"ST-TA3014,3949.0,2023-09-30,3TR,14.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take tires with 14 tread depth for 3 axle
+"ST-TA3500,4020.0,2023-09-07,1TR,14.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take tires with 14 tread depth for 1 axle
+"ST-TA4005,4057.0,2023-09-30,1TR,14.0,9.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take 38316579 for 1 axle right
+"ST-TA4016,4068.0,2023-06-10,3TR,17.6,9.0,385/65R22.5,DUNLOP,SP247,""['385/65R22.5', 'SP247', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take 6016253310 for 3 axle right
+"ST-U5469,4121.0,2023-06-10,3TR,12.0,9.0,385/65R22.5,FULDA,ECOTONN,""['385/65R22.5', 'ECOTONN', '2', '160K158L', 'TL']""";;;;;;;;;;;leave out, need to ask client
+"ST-V6942,4123.0,2023-07-06,1TL,4.0,6.0,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;take 1935527974 for 1 axle left
+"ST-Z6420,4202.0,2023-04-01,3TR,6.0,9.2,385/65R22.5,FULDA,REGIOTONN,""['385/65R22.5', 'REGIOTONN', '3', 'HL', '164K158L', '3PSF']""";;;;;;;;;;;leave out, need to ask client
+"ST-Z8420,4216.0,2023-08-29,3TR,13.0,9.0,385/65R22.5,PIRELLI,IT-T90,""['385/65R22.5', '160K158L', 'IT-T90']""";;;;;;;;;;;leave out, need to ask client

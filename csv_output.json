@@ -1,1 +1,470 @@
-[{"plate_no": "ST-HS 2027", "mount_data": "2022.05.29", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "GoodYear", "2_Trailer_Left_Product": "KMAX T", "2_Trailer_Left_tire_id": 6140172011.0, "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-GS 4862", "mount_data": "2022.07.27", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "GoodYear", "1_Trailer_Right_Product": "KMAX T", "1_Trailer_Right_tire_id": 6015758237, "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "GoodYear", "3_Trailer_Left_Product": "KMAX T", "3_Trailer_Left_tire_id": 6015258242, "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-GS 4428", "mount_data": "2022.09.07", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "Fulda", "3_Trailer_Right_Product": "Regiotonn 3", "3_Trailer_Right_tire_id": 37833517.0}, {"plate_no": "ST-HS 2123", "mount_data": "2023.01.09", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "Dunlop", "3_Trailer_Left_Product": "SP247", "3_Trailer_Left_tire_id": 6016058324, "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-HS 731", "mount_data": "2023.01.16", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "Dunlop", "1_Trailer_Left_Product": "SP247", "1_Trailer_Left_tire_id": 6015763788.0, "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-GS 6427", "mount_data": "2023.01.17", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "Dunlop", "3_Trailer_Left_Product": "SP247", "3_Trailer_Left_tire_id": 6015763730, "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-GS 6706", "mount_data": "2023.01.21", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "Fulda", "1_Trailer_Right_Product": "Regiotonn 3", "1_Trailer_Right_tire_id": 1934733254, "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-HS 569", "mount_data": "2023.01.21", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "Fulda", "3_Trailer_Left_Product": "Regiotonn 3", "3_Trailer_Left_tire_id": 37418943, "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-GS 4753", "mount_data": "2023.01.27", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "Fulda", "1_Trailer_Left_Product": "Regiotonn 3", "1_Trailer_Left_tire_id": 38577141.0, "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-GS 4108", "mount_data": "2023.02.01", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "Dunlop", "1_Trailer_Right_Product": "SP247", "1_Trailer_Right_tire_id": 6016228651, "2_Trailer_Left_brand": "Dunlop", "2_Trailer_Left_Product": "SP247", "2_Trailer_Left_tire_id": 6016249164.0, "2_Trailer_Right_brand": "Dunlop", "2_Trailer_Right_Product": "SP247", "2_Trailer_Right_tire_id": 6015783080.0, "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "Dunlop", "3_Trailer_Right_Product": "SP247", "3_Trailer_Right_tire_id": 6016141557.0}, {"plate_no": "ST-GS 6702", "mount_data": "2023.02.03", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "Fulda", "1_Trailer_Left_Product": "Regiotonn 3", "1_Trailer_Left_tire_id": 7981853984.0, "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "Fulda", "3_Trailer_Left_Product": "Regiotonn 3", "3_Trailer_Left_tire_id": 1934858615, "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-HS 2029", "mount_data": "2023.02.04", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "Dunlop", "1_Trailer_Left_Product": "SP247", "1_Trailer_Left_tire_id": 6016141664.0, "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-HS 790", "mount_data": "2023.02.04", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "Fulda", "1_Trailer_Left_Product": "Regiotonn 3", "1_Trailer_Left_tire_id": 1934734231.0, "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-GS 4653", "mount_data": "2023.02.10", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "Fulda", "2_Trailer_Left_Product": "Regiotonn 3", "2_Trailer_Left_tire_id": 38695710.0, "2_Trailer_Right_brand": "Fulda", "2_Trailer_Right_Product": "Regiotonn 3", "2_Trailer_Right_tire_id": 38695714.0, "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-C 356", "mount_data": "2023.02.18", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "Dunlop", "1_Trailer_Right_Product": "SP247", "1_Trailer_Right_tire_id": 6016058291, "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-GS 6052", "mount_data": "2023.02.18", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": " ", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-HS 1922", "mount_data": "2023.02.18", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "Dunlop", "3_Trailer_Left_Product": "SP247", "3_Trailer_Left_tire_id": 6015292587, "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-HS 576", "mount_data": "2023.02.18", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "Fulda", "2_Trailer_Right_Product": "Regiotonn 3", "2_Trailer_Right_tire_id": 7978010906.0, "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "Fulda", "3_Trailer_Right_Product": "Regiotonn 3", "3_Trailer_Right_tire_id": 37903882.0}, {"plate_no": "ST-HS 605", "mount_data": "2023.02.18", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "Dunlop", "2_Trailer_Left_Product": "SP247", "2_Trailer_Left_tire_id": 7932076581.0, "2_Trailer_Right_brand": "Dunlop", "2_Trailer_Right_Product": "SP247", "2_Trailer_Right_tire_id": 793207658.0, "3_Trailer_Left_brand": "Dunlop", "3_Trailer_Left_Product": "SP247", "3_Trailer_Left_tire_id": 18016141663, "3_Trailer_Right_brand": "Dunlop", "3_Trailer_Right_Product": "SP247", "3_Trailer_Right_tire_id": 193502165.0}, {"plate_no": "ST-TA 425", "mount_data": "2023.02.20", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "Dunlop", "2_Trailer_Right_Product": "SP247", "2_Trailer_Right_tire_id": 6015784436.0, "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-HS 803", "mount_data": "2023.03.09", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "Fulda", "2_Trailer_Right_Product": "Regiotonn3", "2_Trailer_Right_tire_id": 891848816.0, "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-TA 1047", "mount_data": "2023.03.09", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "GoodYear", "3_Trailer_Right_Product": "KMAX T", "3_Trailer_Right_tire_id": 6015449816.0}, {"plate_no": "ST-SI 1910", "mount_data": "2023.03.10", "tire_size": "385/65 R 22,6", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "GoodYear", "2_Trailer_Left_Product": "K-MAX T", "2_Trailer_Left_tire_id": 6016257484.0, "2_Trailer_Right_brand": "GoodYear", "2_Trailer_Right_Product": "K-MAX T", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-SI 1910", "mount_data": "2023.03.10", "tire_size": "385/65 R 22,6", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "GoodYear", "3_Trailer_Left_Product": "KMAX T", "3_Trailer_Left_tire_id": 6016264540, "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-TA 3014", "mount_data": "2023.03.10", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "Pirelli", "1_Trailer_Right_Product": "IT-T90", "1_Trailer_Right_tire_id": "JGV7642E", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-TA 3300", "mount_data": "2023.03.10", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "GoodYear", "3_Trailer_Left_Product": "KMAX T", "3_Trailer_Left_tire_id": "not available", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-TA 4005", "mount_data": "2023.03.16", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "GoodYear", "1_Trailer_Left_Product": "KMAX T", "1_Trailer_Left_tire_id": 6016132429.0, "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-TA 2189", "mount_data": "2022.12.22", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "GoodYear", "2_Trailer_Left_Product": "Fuelmax T HL", "2_Trailer_Left_tire_id": 7976397234.0, "2_Trailer_Right_brand": "GoodYear", "2_Trailer_Right_Product": "Fuelmax T HL", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-GS 6705", "mount_data": "2023.03.07", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "GoodYear", "2_Trailer_Right_Product": "KMAX T Gen 2", "2_Trailer_Right_tire_id": 6016317811.0, "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-TA 1812", "mount_data": "2022.06.22", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "GoodYear", "2_Trailer_Left_Product": "Fuelmax T HL", "2_Trailer_Left_tire_id": 7976403000.0, "2_Trailer_Right_brand": "GoodYear", "2_Trailer_Right_Product": "Fuelmax T HL", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-TA 2005", "mount_data": "2023.03.07", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "GoodYear", "3_Trailer_Left_Product": "Fuelmax T HL", "3_Trailer_Left_tire_id": 7978028551, "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-HS 2227", "mount_data": "2023.01.06", "tire_size": "385/65 R22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "GoodYear", "1_Trailer_Left_Product": "KMAX T", "1_Trailer_Left_tire_id": 6015753224.0, "1_Trailer_Right_brand": "GoodYear", "1_Trailer_Right_Product": "KMAX T", "1_Trailer_Right_tire_id": 6015417279, "2_Trailer_Left_brand": "GoodYear", "2_Trailer_Left_Product": "KMAX T", "2_Trailer_Left_tire_id": 1938468618.0, "2_Trailer_Right_brand": "GoodYear", "2_Trailer_Right_Product": "KMAX T", "2_Trailer_Right_tire_id": 1938468633.0, "3_Trailer_Left_brand": "GoodYear", "3_Trailer_Left_Product": "KMAX T", "3_Trailer_Left_tire_id": 1938468651, "3_Trailer_Right_brand": "GoodYear", "3_Trailer_Right_Product": "KMAX T", "3_Trailer_Right_tire_id": 6019753193.0}, {"plate_no": "ST-GS 6426", "mount_data": "2023.04.26", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "Fulda", "1_Trailer_Left_Product": "Regiotonn 3 HL", "1_Trailer_Left_tire_id": 38717296.0, "1_Trailer_Right_brand": "Fulda", "1_Trailer_Right_Product": "Regiotonn 3 HL", "1_Trailer_Right_tire_id": 38776123, "2_Trailer_Left_brand": "Fulda", "2_Trailer_Left_Product": "Regioton 3 HL", "2_Trailer_Left_tire_id": 38318080.0, "2_Trailer_Right_brand": "Fulda", "2_Trailer_Right_Product": "Regioton 3 HL", "2_Trailer_Right_tire_id": 38791277.0, "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-HS 6566", "mount_data": "2023.04.08", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-GS 4805", "mount_data": "2023.04.08", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-HS 6566", "mount_data": "2023.04.08", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-HS 2117", "mount_data": "2023.04.08", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-GS 6051", "mount_data": "2023.04.08", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-GS 4164", "mount_data": "2023.05.10", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "Fulda", "1_Trailer_Left_Product": "Regiotonn 3 HL", "1_Trailer_Left_tire_id": 38716917.0, "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-GS 4835", "mount_data": "2023.05.11", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "Fulda", "3_Trailer_Left_Product": "Regiotonn 3", "3_Trailer_Left_tire_id": 38773755, "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-HS 2122", "mount_data": "2023.04.24", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "GoodYear", "1_Trailer_Left_Product": "KMAX T", "1_Trailer_Left_tire_id": 6015530563.0, "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-TA 1083", "mount_data": "2023.04.13", "tire_size": "385/65/R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "GoodYear", "2_Trailer_Left_Product": "KMAX T Gen2", "2_Trailer_Left_tire_id": 6016935645.0, "2_Trailer_Right_brand": "None", "2_Trailer_Right_Product": "None", "2_Trailer_Right_tire_id": "None", "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}, {"plate_no": "ST-GS 4303", "mount_data": "2023.06.06", "tire_size": "385/65 R 22,5", "axle_type": "3 axles", "1_Trailer_Left_brand": "None", "1_Trailer_Left_Product": "None", "1_Trailer_Left_tire_id": "None", "1_Trailer_Right_brand": "None", "1_Trailer_Right_Product": "None", "1_Trailer_Right_tire_id": "None", "2_Trailer_Left_brand": "None", "2_Trailer_Left_Product": "None", "2_Trailer_Left_tire_id": "None", "2_Trailer_Right_brand": "Fulda", "2_Trailer_Right_Product": "Regiotonn 3", "2_Trailer_Right_tire_id": 38726282.0, "3_Trailer_Left_brand": "None", "3_Trailer_Left_Product": "None", "3_Trailer_Left_tire_id": "None", "3_Trailer_Right_brand": "None", "3_Trailer_Right_Product": "None", "3_Trailer_Right_tire_id": "None"}] 
+{
+	"Hamburg": {
+		"Rigid": {
+			"WL-JM1443": {
+				"vehicle_name": "1106",
+				"modified_date": "21.12.2023",
+				"tires": [
+					{
+						"tire_id": "12345678",
+						"size": "315/70R22.5",
+						"product_line": "Duravis R-Drive 002",
+						"brand": "Bridgestone",
+						"tread_depth": "16,6",
+						"pressure": "nan",
+						"TD_date": "2023-12-21",
+						"position": "1DR"
+					}
+				]
+			},
+			"WL-JM1476": {
+				"vehicle_name": "10059",
+				"modified_date": "29.01.2024",
+				"tires": [
+					{
+						"tire_id": "ec4ed5d1b",
+						"size": "315/70R22.5",
+						"product_line": "",
+						"brand": "Michelin",
+						"tread_depth": "10,0",
+						"pressure": "nan",
+						"TD_date": "2023-10-28",
+						"position": "1SL"
+					},
+					{
+						"tire_id": "NE",
+						"size": "315/70R22.5",
+						"product_line": "",
+						"brand": "Michelin",
+						"tread_depth": "8,0",
+						"pressure": "nan",
+						"TD_date": "2023-10-28",
+						"position": "1SR"
+					},
+					{
+						"tire_id": "78348f1d5",
+						"size": "315/70R22.5",
+						"product_line": "",
+						"brand": "Michelin",
+						"tread_depth": "8,6",
+						"pressure": "nan",
+						"TD_date": "2023-10-28",
+						"position": "1DL"
+					},
+					{
+						"tire_id": "458b8dec8",
+						"size": "315/70R22.5",
+						"product_line": "",
+						"brand": "Michelin",
+						"tread_depth": "9,4",
+						"pressure": "nan",
+						"TD_date": "2023-10-28",
+						"position": "1DLI"
+					},
+					{
+						"tire_id": "a0db65e22",
+						"size": "315/70R22.5",
+						"product_line": "",
+						"brand": "Michelin",
+						"tread_depth": "8,2",
+						"pressure": "nan",
+						"TD_date": "2023-10-28",
+						"position": "1DR"
+					},
+					{
+						"tire_id": "47df1f8d0",
+						"size": "315/70R22.5",
+						"product_line": "",
+						"brand": "Michelin",
+						"tread_depth": "7,2",
+						"pressure": "nan",
+						"TD_date": "2023-10-28",
+						"position": "1DRI"
+					}
+				]
+			}
+		},
+		"Trailer": {
+			"WL-JM702": {
+				"vehicle_name": "1711",
+				"modified_date": "01.12.2023",
+				"tires": [
+					{
+						"tire_id": "B7U325614",
+						"size": "385/55R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "15,7",
+						"pressure": "nan",
+						"TD_date": "2023-12-01",
+						"position": "1TL"
+					},
+					{
+						"tire_id": "J7U153227",
+						"size": "385/55R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "13,9",
+						"pressure": "nan",
+						"TD_date": "2023-08-11",
+						"position": "1TR"
+					},
+					{
+						"tire_id": "J7U157129",
+						"size": "385/55R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "15,0",
+						"pressure": "nan",
+						"TD_date": "2023-09-11",
+						"position": "2TL"
+					},
+					{
+						"tire_id": "B7U153043",
+						"size": "385/55R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "15,7",
+						"pressure": "nan",
+						"TD_date": "2023-12-01",
+						"position": "2TR"
+					},
+					{
+						"tire_id": "K7U376983",
+						"size": "385/55R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "15,7",
+						"pressure": "nan",
+						"TD_date": "2023-12-01",
+						"position": "3TL"
+					},
+					{
+						"tire_id": "J7U153292",
+						"size": "385/55R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "13,7",
+						"pressure": "nan",
+						"TD_date": "2023-08-11",
+						"position": "3TR"
+					}
+				]
+			}
+		}
+	},
+	"Drestedt": {
+		"Rigid": {
+			"WL-JM1371": {
+				"vehicle_name": "1047",
+				"modified_date": "13.12.2023",
+				"tires": [
+					{
+						"tire_id": "H7U327644",
+						"size": "315/70R22.5",
+						"product_line": "Ecopia H-Drive 002",
+						"brand": "Bridgestone",
+						"tread_depth": "13,7",
+						"pressure": "nan",
+						"TD_date": "2023-12-13",
+						"position": "1DR"
+					}
+				]
+			},
+			"WL-JM1411": {
+				"vehicle_name": "1080",
+				"modified_date": "06.12.2023",
+				"tires": [
+					{
+						"tire_id": "B7U118968",
+						"size": "315/70R22.5",
+						"product_line": "Durvais R-Steer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "13,1",
+						"pressure": "nan",
+						"TD_date": "2023-06-06",
+						"position": "1SR"
+					},
+					{
+						"tire_id": "6189764",
+						"size": "315/70R22.5",
+						"product_line": "",
+						"brand": "Bridgestone",
+						"tread_depth": "19,0",
+						"pressure": "nan",
+						"TD_date": "2023-12-06",
+						"position": "1DL"
+					},
+					{
+						"tire_id": "6188789",
+						"size": "315/70R22.5",
+						"product_line": "",
+						"brand": "Bridgestone",
+						"tread_depth": "19,0",
+						"pressure": "nan",
+						"TD_date": "2023-12-06",
+						"position": "1DLI"
+					},
+					{
+						"tire_id": "6188873",
+						"size": "315/70R22.5",
+						"product_line": "",
+						"brand": "Bridgestone",
+						"tread_depth": "19,0",
+						"pressure": "nan",
+						"TD_date": "2023-12-06",
+						"position": "1DR"
+					},
+					{
+						"tire_id": "6189984",
+						"size": "315/70R22.5",
+						"product_line": "",
+						"brand": "Bridgestone",
+						"tread_depth": "19,0",
+						"pressure": "nan",
+						"TD_date": "2023-12-06",
+						"position": "1DRI"
+					}
+				]
+			}
+		},
+		"Trailer": {
+			"WL-JM112": {(in cunnersdorf - done)
+				"vehicle_name": "1551",
+				"modified_date": "20.12.2023",
+				"tires": [
+					{
+						"tire_id": "eb730b995",
+						"size": "385/65R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "7,0",
+						"pressure": "9,0",
+						"TD_date": "2023-01-06",
+						"position": "1TR"
+					},
+					{
+						"tire_id": "D2U521517",
+						"size": "385/65R22.5",
+						"product_line": "R168 ",
+						"brand": "Bridgestone",
+						"tread_depth": "16,8",
+						"pressure": "nan",
+						"TD_date": "2023-12-20",
+						"position": "3TL"
+					},
+					{
+						"tire_id": "9852cafdb",
+						"size": "385/65R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "5,0",
+						"pressure": "9,0",
+						"TD_date": "2023-01-06",
+						"position": "3TR"
+					}
+				]
+			},
+			"WL-JM714": {
+				"vehicle_name": "1717",
+				"modified_date": "06.12.2023",
+				"tires": [
+					{
+						"tire_id": "E2U190271",
+						"size": "385/65R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "15,7",
+						"pressure": "nan",
+						"TD_date": "2023-11-03",
+						"position": "1TL"
+					},
+					{
+						"tire_id": "F2T660825",
+						"size": "385/65R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "15,7",
+						"pressure": "nan",
+						"TD_date": "2023-01-11",
+						"position": "3TL"
+					},
+					{
+						"tire_id": "123456789",
+						"size": "385/65R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "15,7",
+						"pressure": "nan",
+						"TD_date": "2023-12-06",
+						"position": "3TR"
+					}
+				]
+			},
+			"WL-JM728": {
+				"vehicle_name": "1721",
+				"modified_date": "26.01.2024",
+				"tires": [
+					{
+						"tire_id": "L2U321588M",
+						"size": "385/65R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "15,7",
+						"pressure": "9,0",
+						"TD_date": "2024-01-26",
+						"position": "1TR"
+					},
+					{
+						"tire_id": "M2T460987M",
+						"size": "385/65R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "15,7",
+						"pressure": "9,0",
+						"TD_date": "2023-11-22",
+						"position": "2TR"
+					},
+					{
+						"tire_id": "C2U490857",
+						"size": "385/65R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "15,7",
+						"pressure": "9,0",
+						"TD_date": "2023-10-06",
+						"position": "3TL"
+					},
+					{
+						"tire_id": "C2S63156",
+						"size": "385/65R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "15,7",
+						"pressure": "9,0",
+						"TD_date": "2023-08-17",
+						"position": "3TR"
+					}
+				]
+			},
+			"WL-JM791": {
+				"vehicle_name": "1742",
+				"modified_date": "29.12.2023",
+				"tires": [
+					{
+						"tire_id": "J7T258150",
+						"size": "385/65R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "15,7",
+						"pressure": "nan",
+						"TD_date": "2022-08-12",
+						"position": "1TL"
+					},
+					{
+						"tire_id": "C2U490860M",
+						"size": "385/65R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "15,7",
+						"pressure": "9,0",
+						"TD_date": "2023-12-29",
+						"position": "2TL"
+					},
+					{
+						"tire_id": "M2S670343",
+						"size": "385/65R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "11,2",
+						"pressure": "9,0",
+						"TD_date": "2022-07-23",
+						"position": "2TR"
+					},
+					{
+						"tire_id": "B7T426963",
+						"size": "385/65R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "15,7",
+						"pressure": "9,0",
+						"TD_date": "2023-07-28",
+						"position": "3TL"
+					},
+					{
+						"tire_id": "C2U610723M",
+						"size": "385/65R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "15,7",
+						"pressure": "9,0",
+						"TD_date": "2023-12-29",
+						"position": "3TR"
+					}
+				]
+			},
+			"WL-JM792": {
+				"vehicle_name": "1743",
+				"modified_date": "24.01.2024",
+				"tires": [
+					{
+						"tire_id": "H7T155781",
+						"size": "385/65R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "15,7",
+						"pressure": "nan",
+						"TD_date": "2022-11-02",
+						"position": "3TL"
+					},
+					{
+						"tire_id": "l2U321587M",
+						"size": "385/65R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "15,7",
+						"pressure": "9,0",
+						"TD_date": "2024-01-24",
+						"position": "3TR"
+					}
+				]
+			},
+			"WL-JM837": {
+				"vehicle_name": "1743",
+				"modified_date": "28.12.2023",
+				"tires": [
+					{
+						"tire_id": "hu141794",
+						"size": "385/65R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "15,7",
+						"pressure": "9,0",
+						"TD_date": "2023-12-15",
+						"position": "1TL"
+					},
+					{
+						"tire_id": "F2U752455",
+						"size": "385/65R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "15,7",
+						"pressure": "nan",
+						"TD_date": "2023-12-28",
+						"position": "3TL"
+					},
+					{
+						"tire_id": "H2T760967",
+						"size": "385/65R22.5",
+						"product_line": "Duravis R-Trailer 002",
+						"brand": "Bridgestone",
+						"tread_depth": "15,7",
+						"pressure": "9,0",
+						"TD_date": "2022-10-27",
+						"position": "3TR"
+					}
+				]
+			}
+		}
+	}
+}

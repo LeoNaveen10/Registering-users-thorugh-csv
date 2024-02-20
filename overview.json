@@ -1,0 +1,139 @@
+{
+	"tire_overview": {
+		"tires_in_use": 109,
+		"less_3mm": 11,
+		"between_3mm_5mm": 0,
+		"gt_12mon": 0,
+		"within_3mon": 0,
+        "less_3mm_details" : [
+            {
+                "brand" : "string",
+                "tire_id" : "string",
+                "system_tire_id" : "string",
+                "product_line" : "string",
+                "estimated_tread_depth" : "number",
+                "fleet_id" :"number"
+            },
+            {
+                "brand" : "string",
+                "tire_id" : "string",
+                "system_tire_id" : "string",
+                "product_line" : "string",
+                "estimated_tread_depth" : "number",
+                "fleet_id" :"number"
+            }
+        ]
+	},
+	"vehicle_overview": {
+		"trailer": {
+			"count": 19,
+            "unConfig_count" : 2,
+            "fullConfig_count" : 2,
+            "partConfig_count" : 2,
+			"unConfig_vehicles": [
+				{
+					"name": "string",
+					"reg_plate": "string",
+					"fleet_name": "string",
+					"vehicle_id": "string"
+				},
+				{
+					"name": "string",
+					"reg_plate": "string",
+					"fleet_name": "string",
+					"vehicle_id": "string"
+				}
+			],
+
+			"partConfig_vehicles": [
+				{
+					"name": "string",
+					"reg_plate": "string",
+					"fleet_name": "string",
+					"vehicle_id": "string"
+				},
+				{
+					"name": "string",
+					"reg_plate": "string",
+					"fleet_name": "string",
+					"vehicle_id": "string"
+				}
+			]
+		},
+		"truck": {
+			"count": 19,
+            "unConfig_count" : 2,
+            "fullConfig_count" : 2,
+            "partConfig_count" : 2,
+			"unConfig_vehicles": [
+				{
+					"name": "string",
+					"reg_plate": "string",
+					"fleet_name": "string",
+					"vehicle_id": "string"
+				},
+				{
+					"name": "string",
+					"reg_plate": "string",
+					"fleet_name": "string",
+					"vehicle_id": "string"
+				}
+			],
+
+			"partConfig_vehicles": [
+				{
+					"name": "string",
+					"reg_plate": "string",
+					"fleet_name": "string",
+					"vehicle_id": "string"
+				},
+				{
+					"name": "string",
+					"reg_plate": "string",
+					"fleet_name": "string",
+					"vehicle_id": "string"
+				}
+			]
+		},
+		"bus": {
+			"count": 19,
+            "unConfig_count" : 2,
+            "fullConfig_count" : 2,
+            "partConfig_count" : 2,
+			"unConfig_vehicles": [
+				{
+					"name": "string",
+					"reg_plate": "string",
+					"fleet_name": "string",
+					"vehicle_id": "string"
+				},
+				{
+					"name": "string",
+					"reg_plate": "string",
+					"fleet_name": "string",
+					"vehicle_id": "string"
+				}
+			],
+
+			"partConfig_vehicles": [
+				{
+					"name": "string",
+					"reg_plate": "string",
+					"fleet_name": "string",
+					"vehicle_id": "string"
+				},
+				{
+					"name": "string",
+					"reg_plate": "string",
+					"fleet_name": "string",
+					"vehicle_id": "string"
+				}
+			]
+		},
+		"tires": {
+			"steer_inUse": 27,
+			"drive_inUse": 51,
+			"trailer_inUse": 37
+		}
+	}
+}
