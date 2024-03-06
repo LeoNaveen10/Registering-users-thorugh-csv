@@ -13,13 +13,13 @@ def generate_alphanumeric(length):
     return "".join(random.choices(alphanumeric_chars, k=length))
 
 
-df = pd.read_excel("str.xlsx", header=3)
+df = pd.read_excel("str2.xlsx", header=3)
 
 tire_positions = {
     "außenlinks": "L",
     "außenrechts": "R",
-    "innenlinks": "IL",
-    "innenrechts": "IR",
+    "innenlinks": "LI",
+    "innenrechts": "RI",
 }
 
 
@@ -39,8 +39,6 @@ row_no = []
 
 
 for index, row in df.iterrows():
-    if index <= 353: #skipping untill 353 rows as it is already done by sales team
-        continue
     # print(row["Note"])
     if (row["Note"] != "nan" or row["Note"] != "NAN") and row[
         "Note"
@@ -63,7 +61,7 @@ for index, row in df.iterrows():
     row_no.append({"no": index, "plate_no": row["License Plate"]})
 
     if str(tire_size) == "nan":
-        if axle_temp.find("T"):
+        if axle_temp.find("T") > 0:
             tire_size = "385/65R22.5"
         else:
             tire_size = "315/70R22.5"
@@ -84,16 +82,15 @@ for index, row in df.iterrows():
         tire_id = generate_alphanumeric(9)
     else:
         tire_id = tire_id_temp
-        
-        
+
     if str(brand) == "nan" or str(brand) == "NAN":
         brand = "STEINKUHLER"
-        if axle_temp.find("T"):
-            product_line = "TRAILER"
-        elif axle_temp.find("S"):
-            product_line = "STEER"
+        if axle_temp.find("T") > 0:
+            product_line = "Trailer"
+        elif axle_temp.find("S") > 0:
+            product_line = "Steer"
         else:
-            product_line = "DRIVE"
+            product_line = "Drive"
     elif (
         brand == "FULDA"
         or brand == "DUNLOP"
@@ -143,6 +140,7 @@ for index, row in df.iterrows():
                             "tire_size": tire_size,
                             "brand": brand,
                             "product_line": product_line,
+                            "tank_capacity": 650,
                             "parts": parts,
                         }
                     )
@@ -158,6 +156,7 @@ for index, row in df.iterrows():
                             "tire_size": tire_size,
                             "brand": brand,
                             "product_line": product_line,
+                            "tank_capacity": 650,
                             "parts": parts,
                         }
                     ]
@@ -177,18 +176,19 @@ for index, row in df.iterrows():
                     "tire_size": tire_size,
                     "brand": brand,
                     "product_line": product_line,
+                    "tank_capacity": 650,
                     "parts": parts,
                 }
             elif obj[plate_no][axle_position]["date"] > formatted_date:
                 del obj[plate_no][axle_position]
                 print("value removed")
-                
+
                 if duplicate is not None and plate_no in duplicate:
                     for value in duplicate[plate_no]:
                         if value["axle_position"] == axle_position:
-                            print('duplicate removed')
+                            print("duplicate removed")
                             duplicate[plate_no].remove(value)
-                            
+
                 obj[plate_no][axle_position] = {
                     "date": formatted_date,
                     "axle_position": axle_position,
@@ -198,8 +198,9 @@ for index, row in df.iterrows():
                     "tire_size": tire_size,
                     "brand": brand,
                     "product_line": product_line,
+                    "tank_capacity": 650,
                     "parts": parts,
-                }         
+                }
 
         else:
             obj[plate_no][axle_position] = {
@@ -211,6 +212,7 @@ for index, row in df.iterrows():
                 "tire_size": tire_size,
                 "brand": brand,
                 "product_line": product_line,
+                "tank_capacity": 650,
                 "parts": parts,
             }
 
@@ -225,6 +227,7 @@ for index, row in df.iterrows():
             "tire_size": tire_size,
             "brand": brand,
             "product_line": product_line,
+            "tank_capacity": 650,
             "parts": parts,
         }
 

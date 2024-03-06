@@ -1,0 +1,1933 @@
+2024-02-29T05:50:43.070Z - Vehicle is already configured - ST-GS2307 - trucks
+2024-02-29T05:50:43.255Z - configured and tires are mounted case
+2024-02-29T05:50:43.255Z - no changes are needed already latest tires are mounted
+2024-02-29T05:50:43.255Z - ---------------DONE------------
+2024-02-29T05:50:43.255Z - Vehicle is already configured - ST-GS2308 - trucks
+2024-02-29T05:50:43.430Z - configured and tires are mounted case
+2024-02-29T05:50:43.430Z - no changes are needed already latest tires are mounted
+2024-02-29T05:50:43.430Z - ---------------DONE------------
+2024-02-29T05:50:43.430Z - Vehicle is already configured - ST-GS2311 - trucks
+2024-02-29T05:50:43.601Z - configured and tires are mounted case
+2024-02-29T05:50:43.601Z - no changes are needed already latest tires are mounted
+2024-02-29T05:50:43.601Z - ---------------DONE------------
+2024-02-29T05:50:43.601Z - Vehicle is already configured - ST-GS2312 - trucks
+2024-02-29T05:50:43.781Z - configured and tires are mounted case
+2024-02-29T05:50:43.781Z - no changes are needed already latest tires are mounted
+2024-02-29T05:50:43.781Z - ---------------DONE------------
+2024-02-29T05:50:43.782Z - Vehicle is already configured - ST-GS4002 - trailers
+2024-02-29T05:50:43.955Z - configured and tires are mounted case
+2024-02-29T05:50:43.955Z - no changes are needed already latest tires are mounted
+2024-02-29T05:50:43.955Z - ---------------DONE------------
+2024-02-29T05:50:43.955Z - Vehicle is already configured - ST-GS4003 - trailers
+2024-02-29T05:50:44.129Z - configured and tires are mounted case
+2024-02-29T05:50:44.129Z - no changes are needed already latest tires are mounted
+2024-02-29T05:50:44.129Z - ---------------DONE------------
+2024-02-29T05:50:44.131Z - Vehicle is already configured - ST-GS4005 - trailers
+2024-02-29T05:50:44.304Z - configured and tires are mounted case
+2024-02-29T05:50:44.304Z - no changes are needed already latest tires are mounted
+2024-02-29T05:50:44.304Z - ---------------DONE------------
+2024-02-29T05:50:44.304Z - vehicle found - unconfigured - ST-GS4007  - trailers
+2024-02-29T05:50:45.422Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:50:47.257Z - Tires are successfully created and mounted
+2024-02-29T05:50:47.258Z - --------DONE----------
+2024-02-29T05:50:47.258Z - vehicle found - unconfigured - ST-GS4008  - trailers
+2024-02-29T05:50:48.651Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:50:49.742Z - Tires are successfully created and mounted
+2024-02-29T05:50:49.742Z - --------DONE----------
+2024-02-29T05:50:49.742Z - Vehicle is already configured - ST-GS4011 - trailers
+2024-02-29T05:50:49.941Z - configured and tires are mounted case
+2024-02-29T05:50:49.941Z - no changes are needed already latest tires are mounted
+2024-02-29T05:50:49.941Z - ---------------DONE------------
+2024-02-29T05:50:49.942Z - vehicle found - unconfigured - ST-GS4050  - trailers
+2024-02-29T05:50:52.604Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:50:53.705Z - Tires are successfully created and mounted
+2024-02-29T05:50:53.705Z - --------DONE----------
+2024-02-29T05:50:53.707Z - vehicle found - unconfigured - ST-GS4051  - trailers
+2024-02-29T05:50:54.713Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:50:55.858Z - Tires are successfully created and mounted
+2024-02-29T05:50:55.858Z - --------DONE----------
+2024-02-29T05:50:55.858Z - vehicle found - unconfigured - ST-GS4053  - trailers
+2024-02-29T05:50:56.944Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:50:58.106Z - Tires are successfully created and mounted
+2024-02-29T05:50:58.106Z - --------DONE----------
+2024-02-29T05:50:58.108Z - Vehicle is already configured - ST-GS4055 - trailers
+2024-02-29T05:50:58.280Z - configured and tires are mounted case
+2024-02-29T05:50:58.280Z - no changes are needed already latest tires are mounted
+2024-02-29T05:50:58.280Z - ---------------DONE------------
+2024-02-29T05:50:58.282Z - Vehicle is already configured - ST-GS4100 - trailers
+2024-02-29T05:50:58.458Z - configured and tires are mounted case
+2024-02-29T05:50:58.459Z - no changes are needed already latest tires are mounted
+2024-02-29T05:50:58.459Z - ---------------DONE------------
+2024-02-29T05:50:58.460Z - vehicle found - unconfigured - ST-GS4101  - trailers
+2024-02-29T05:50:59.754Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:01.185Z - Tires are successfully created and mounted
+2024-02-29T05:51:01.185Z - --------DONE----------
+2024-02-29T05:51:01.186Z - vehicle found - unconfigured - ST-GS4102  - trailers
+2024-02-29T05:51:02.185Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:03.283Z - Tires are successfully created and mounted
+2024-02-29T05:51:03.283Z - --------DONE----------
+2024-02-29T05:51:03.284Z - vehicle found - unconfigured - ST-GS4103  - trailers
+2024-02-29T05:51:04.300Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:05.544Z - Tires are successfully created and mounted
+2024-02-29T05:51:05.544Z - --------DONE----------
+2024-02-29T05:51:05.544Z - vehicle found - unconfigured - ST-GS4104  - trailers
+2024-02-29T05:51:06.554Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:07.666Z - Tires are successfully created and mounted
+2024-02-29T05:51:07.666Z - --------DONE----------
+2024-02-29T05:51:07.666Z - Vehicle is already configured - ST-GS4105 - trailers
+2024-02-29T05:51:07.847Z - configured and tires are mounted case
+2024-02-29T05:51:07.847Z - no changes are needed already latest tires are mounted
+2024-02-29T05:51:07.847Z - ---------------DONE------------
+2024-02-29T05:51:07.847Z - vehicle found - unconfigured - ST-GS4106  - trailers
+2024-02-29T05:51:08.903Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:10.209Z - Tires are successfully created and mounted
+2024-02-29T05:51:10.209Z - --------DONE----------
+2024-02-29T05:51:10.210Z - Vehicle is already configured - ST-GS4108 - trailers
+2024-02-29T05:51:10.390Z - configured and tires are mounted case
+2024-02-29T05:51:10.390Z - no changes are needed already latest tires are mounted
+2024-02-29T05:51:10.390Z - ---------------DONE------------
+2024-02-29T05:51:10.391Z - vehicle found - unconfigured - ST-GS4109  - trailers
+2024-02-29T05:51:11.402Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:12.542Z - Tires are successfully created and mounted
+2024-02-29T05:51:12.542Z - --------DONE----------
+2024-02-29T05:51:12.543Z - Vehicle is already configured - ST-GS4150 - trailers
+2024-02-29T05:51:12.720Z - configured and tires are mounted case
+2024-02-29T05:51:12.720Z - no changes are needed already latest tires are mounted
+2024-02-29T05:51:12.720Z - ---------------DONE------------
+2024-02-29T05:51:12.721Z - vehicle found - unconfigured - ST-GS4151  - trailers
+2024-02-29T05:51:14.096Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:15.187Z - Tires are successfully created and mounted
+2024-02-29T05:51:15.187Z - --------DONE----------
+2024-02-29T05:51:15.187Z - Vehicle is already configured - ST-GS4152 - trailers
+2024-02-29T05:51:15.360Z - configured and tires are mounted case
+2024-02-29T05:51:15.360Z - no changes are needed already latest tires are mounted
+2024-02-29T05:51:15.360Z - ---------------DONE------------
+2024-02-29T05:51:15.361Z - vehicle found - unconfigured - ST-GS4154  - trailers
+2024-02-29T05:51:16.643Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:17.678Z - Tires are successfully created and mounted
+2024-02-29T05:51:17.678Z - --------DONE----------
+2024-02-29T05:51:17.680Z - vehicle found - unconfigured - ST-GS4155  - trailers
+2024-02-29T05:51:19.954Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:22.690Z - Tires are successfully created and mounted
+2024-02-29T05:51:22.690Z - --------DONE----------
+2024-02-29T05:51:22.691Z - vehicle found - unconfigured - ST-GS4156  - trailers
+2024-02-29T05:51:23.990Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:25.078Z - Tires are successfully created and mounted
+2024-02-29T05:51:25.078Z - --------DONE----------
+2024-02-29T05:51:25.080Z - vehicle found - unconfigured - ST-GS4157  - trailers
+2024-02-29T05:51:26.378Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:29.526Z - Tires are successfully created and mounted
+2024-02-29T05:51:29.526Z - --------DONE----------
+2024-02-29T05:51:29.528Z - vehicle found - unconfigured - ST-GS4158  - trailers
+2024-02-29T05:51:30.844Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:32.192Z - Tires are successfully created and mounted
+2024-02-29T05:51:32.192Z - --------DONE----------
+2024-02-29T05:51:32.193Z - vehicle found - unconfigured - ST-GS4161  - trailers
+2024-02-29T05:51:33.230Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:35.986Z - Tires are successfully created and mounted
+2024-02-29T05:51:35.986Z - --------DONE----------
+2024-02-29T05:51:35.988Z - vehicle found - unconfigured - ST-GS4162  - trailers
+2024-02-29T05:51:37.058Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:38.268Z - Tires are successfully created and mounted
+2024-02-29T05:51:38.268Z - --------DONE----------
+2024-02-29T05:51:38.269Z - vehicle found - unconfigured - ST-GS4165  - trailers
+2024-02-29T05:51:39.168Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:40.264Z - Tires are successfully created and mounted
+2024-02-29T05:51:40.264Z - --------DONE----------
+2024-02-29T05:51:40.264Z - vehicle found - unconfigured - ST-GS4167  - trailers
+2024-02-29T05:51:41.276Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:42.433Z - Tires are successfully created and mounted
+2024-02-29T05:51:42.433Z - --------DONE----------
+2024-02-29T05:51:42.434Z - vehicle found - unconfigured - ST-GS4169  - trailers
+2024-02-29T05:51:43.803Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:44.853Z - Tires are successfully created and mounted
+2024-02-29T05:51:44.853Z - --------DONE----------
+2024-02-29T05:51:44.853Z - vehicle found - unconfigured - ST-GS4170  - trailers
+2024-02-29T05:51:46.527Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:47.672Z - Tires are successfully created and mounted
+2024-02-29T05:51:47.672Z - --------DONE----------
+2024-02-29T05:51:47.672Z - vehicle found - unconfigured - ST-GS4172  - trailers
+2024-02-29T05:51:48.752Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:49.900Z - Tires are successfully created and mounted
+2024-02-29T05:51:49.900Z - --------DONE----------
+2024-02-29T05:51:49.900Z - vehicle found - unconfigured - ST-GS4174  - trailers
+2024-02-29T05:51:50.875Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:52.414Z - Tires are successfully created and mounted
+2024-02-29T05:51:52.414Z - --------DONE----------
+2024-02-29T05:51:52.415Z - vehicle found - unconfigured - ST-GS4200  - trailers
+2024-02-29T05:51:53.469Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:54.582Z - Tires are successfully created and mounted
+2024-02-29T05:51:54.582Z - --------DONE----------
+2024-02-29T05:51:54.582Z - vehicle found - unconfigured - ST-GS4201  - trailers
+2024-02-29T05:51:55.631Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:56.756Z - Tires are successfully created and mounted
+2024-02-29T05:51:56.756Z - --------DONE----------
+2024-02-29T05:51:56.757Z - vehicle found - unconfigured - ST-GS4202  - trailers
+2024-02-29T05:51:57.767Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:51:59.785Z - Tires are successfully created and mounted
+2024-02-29T05:51:59.785Z - --------DONE----------
+2024-02-29T05:51:59.786Z - vehicle found - unconfigured - ST-GS4203  - trailers
+2024-02-29T05:52:00.782Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:52:02.068Z - Tires are successfully created and mounted
+2024-02-29T05:52:02.068Z - --------DONE----------
+2024-02-29T05:52:02.069Z - vehicle found - unconfigured - ST-GS4205  - trailers
+2024-02-29T05:52:03.122Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:52:04.287Z - Tires are successfully created and mounted
+2024-02-29T05:52:04.287Z - --------DONE----------
+2024-02-29T05:52:04.290Z - Vehicle is already configured - ST-GS4206 - trailers
+2024-02-29T05:52:05.176Z - configured and tires are mounted case
+2024-02-29T05:52:05.177Z - no changes are needed already latest tires are mounted
+2024-02-29T05:52:05.177Z - ---------------DONE------------
+2024-02-29T05:52:05.178Z - vehicle found - unconfigured - ST-GS4208  - trailers
+2024-02-29T05:52:06.187Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:52:07.263Z - Tires are successfully created and mounted
+2024-02-29T05:52:07.263Z - --------DONE----------
+2024-02-29T05:52:07.264Z - vehicle found - unconfigured - ST-GS4209  - trailers
+2024-02-29T05:52:08.224Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:52:09.339Z - Tires are successfully created and mounted
+2024-02-29T05:52:09.339Z - --------DONE----------
+2024-02-29T05:52:09.341Z - vehicle found - unconfigured - ST-GS4210  - trailers
+2024-02-29T05:52:10.315Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:52:11.310Z - Tires are successfully created and mounted
+2024-02-29T05:52:11.310Z - --------DONE----------
+2024-02-29T05:52:11.311Z - vehicle found - unconfigured - ST-GS4211  - trailers
+2024-02-29T05:52:12.334Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:52:14.254Z - Tires are successfully created and mounted
+2024-02-29T05:52:14.254Z - --------DONE----------
+2024-02-29T05:52:14.255Z - vehicle found - unconfigured - ST-GS4213  - trailers
+2024-02-29T05:52:16.666Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:52:17.755Z - Tires are successfully created and mounted
+2024-02-29T05:52:17.755Z - --------DONE----------
+2024-02-29T05:52:17.756Z - Vehicle is already configured - ST-GS4214 - trailers
+2024-02-29T05:52:18.623Z - configured and tires are mounted case
+2024-02-29T05:52:18.624Z - no changes are needed already latest tires are mounted
+2024-02-29T05:52:18.624Z - ---------------DONE------------
+2024-02-29T05:52:18.624Z - vehicle not found, creating  new  vehicles : ST-GS4301
+2024-02-29T05:52:19.664Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-GS 4301","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T05:52:19.664Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:52:20.805Z - Tires are successfully created and mounted
+2024-02-29T05:52:20.805Z - --------DONE----------
+2024-02-29T05:52:20.805Z - vehicle not found, creating  new  vehicles : ST-GS4306
+2024-02-29T05:52:21.617Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-GS 4306","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T05:52:21.617Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:52:22.742Z - Tires are successfully created and mounted
+2024-02-29T05:52:22.742Z - --------DONE----------
+2024-02-29T05:52:22.745Z - vehicle not found, creating  new  vehicles : ST-GS4307
+2024-02-29T05:52:24.787Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-GS 4307","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T05:52:24.787Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:52:26.685Z - Tires are successfully created and mounted
+2024-02-29T05:52:26.685Z - --------DONE----------
+2024-02-29T05:52:26.686Z - vehicle not found, creating  new  vehicles : ST-GS4308
+2024-02-29T05:52:27.752Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-GS 4308","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T05:52:27.752Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:52:28.839Z - Tires are successfully created and mounted
+2024-02-29T05:52:28.839Z - --------DONE----------
+2024-02-29T05:52:28.840Z - vehicle not found, creating  new  vehicles : ST-GS4309
+2024-02-29T05:52:29.690Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-GS 4309","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T05:52:29.690Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:52:31.778Z - Tires are successfully created and mounted
+2024-02-29T05:52:31.778Z - --------DONE----------
+2024-02-29T05:52:31.779Z - vehicle not found, creating  new  vehicles : ST-GS4313
+2024-02-29T05:52:33.040Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-GS 4313","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T05:52:33.040Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:52:34.151Z - Tires are successfully created and mounted
+2024-02-29T05:52:34.151Z - --------DONE----------
+2024-02-29T05:52:34.152Z - vehicle not found, creating  new  vehicles : ST-GS4314
+2024-02-29T05:52:35.149Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-GS 4314","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T05:52:35.149Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:52:37.277Z - Tires are successfully created and mounted
+2024-02-29T05:52:37.277Z - --------DONE----------
+2024-02-29T05:52:37.278Z - vehicle not found, creating  new  vehicles : ST-GS4316
+2024-02-29T05:52:38.272Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-GS 4316","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T05:52:38.272Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:52:39.745Z - Tires are successfully created and mounted
+2024-02-29T05:52:39.745Z - --------DONE----------
+2024-02-29T05:52:39.745Z - vehicle not found, creating  new  vehicles : ST-GS4317
+2024-02-29T05:52:40.676Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-GS 4317","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T05:52:40.676Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:52:42.033Z - Tires are successfully created and mounted
+2024-02-29T05:52:42.033Z - --------DONE----------
+2024-02-29T05:52:42.033Z - vehicle not found, creating  new  vehicles : ST-GS4318
+2024-02-29T05:52:43.076Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-GS 4318","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T05:52:43.076Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:52:44.137Z - Tires are successfully created and mounted
+2024-02-29T05:52:44.137Z - --------DONE----------
+2024-02-29T05:52:44.138Z - vehicle not found, creating  new  vehicles : ST-GS4319
+2024-02-29T05:52:45.144Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-GS 4319","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T05:52:45.144Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:52:46.600Z - Tires are successfully created and mounted
+2024-02-29T05:52:46.600Z - --------DONE----------
+2024-02-29T05:52:46.601Z - vehicle found - unconfigured - ST-GS4601  - trailers
+2024-02-29T05:52:47.653Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:52:48.694Z - Tires are successfully created and mounted
+2024-02-29T05:52:48.694Z - --------DONE----------
+2024-02-29T05:52:48.695Z - Vehicle is already configured - ST-GS4603 - trailers
+2024-02-29T05:52:49.651Z - configured and tires are mounted case
+2024-02-29T05:52:49.652Z - no changes are needed already latest tires are mounted
+2024-02-29T05:52:49.652Z - ---------------DONE------------
+2024-02-29T05:52:49.655Z - vehicle found - unconfigured - ST-GS4609  - trailers
+2024-02-29T05:52:50.656Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:52:51.771Z - Tires are successfully created and mounted
+2024-02-29T05:52:51.771Z - --------DONE----------
+2024-02-29T05:52:51.772Z - vehicle found - unconfigured - ST-GS4610  - trailers
+2024-02-29T05:52:52.767Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:52:53.811Z - Tires are successfully created and mounted
+2024-02-29T05:52:53.811Z - --------DONE----------
+2024-02-29T05:52:53.812Z - vehicle found - unconfigured - ST-GS4611  - trailers
+2024-02-29T05:52:54.810Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:52:56.109Z - Tires are successfully created and mounted
+2024-02-29T05:52:56.109Z - --------DONE----------
+2024-02-29T05:52:56.109Z - vehicle found - unconfigured - ST-GS4652  - trailers
+2024-02-29T05:52:58.204Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:52:59.295Z - Tires are successfully created and mounted
+2024-02-29T05:52:59.295Z - --------DONE----------
+2024-02-29T05:52:59.296Z - vehicle found - unconfigured - ST-GS4654  - trailers
+2024-02-29T05:53:00.298Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:01.409Z - Tires are successfully created and mounted
+2024-02-29T05:53:01.409Z - --------DONE----------
+2024-02-29T05:53:01.411Z - vehicle found - unconfigured - ST-GS4750  - trailers
+2024-02-29T05:53:02.386Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:03.476Z - Tires are successfully created and mounted
+2024-02-29T05:53:03.476Z - --------DONE----------
+2024-02-29T05:53:03.478Z - vehicle found - unconfigured - ST-GS4751  - trailers
+2024-02-29T05:53:04.512Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:06.571Z - Tires are successfully created and mounted
+2024-02-29T05:53:06.571Z - --------DONE----------
+2024-02-29T05:53:06.572Z - Vehicle is already configured - ST-GS4752 - trailers
+2024-02-29T05:53:07.442Z - configured and tires are mounted case
+2024-02-29T05:53:07.442Z - no changes are needed already latest tires are mounted
+2024-02-29T05:53:07.442Z - ---------------DONE------------
+2024-02-29T05:53:07.442Z - Vehicle is already configured - ST-GS4754 - trailers
+2024-02-29T05:53:07.638Z - configured and tires are mounted case
+2024-02-29T05:53:07.638Z - no changes are needed already latest tires are mounted
+2024-02-29T05:53:07.638Z - ---------------DONE------------
+2024-02-29T05:53:07.639Z - vehicle found - unconfigured - ST-GS4755  - trailers
+2024-02-29T05:53:08.647Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:12.590Z - Tires are successfully created and mounted
+2024-02-29T05:53:12.591Z - --------DONE----------
+2024-02-29T05:53:12.592Z - Vehicle is already configured - ST-GS4756 - trailers
+2024-02-29T05:53:12.775Z - configured and tires are mounted case
+2024-02-29T05:53:12.775Z - no changes are needed already latest tires are mounted
+2024-02-29T05:53:12.775Z - ---------------DONE------------
+2024-02-29T05:53:12.776Z - vehicle found - unconfigured - ST-GS4758  - trailers
+2024-02-29T05:53:13.995Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:15.124Z - Tires are successfully created and mounted
+2024-02-29T05:53:15.124Z - --------DONE----------
+2024-02-29T05:53:15.125Z - vehicle found - unconfigured - ST-GS4759  - trailers
+2024-02-29T05:53:16.105Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:17.195Z - Tires are successfully created and mounted
+2024-02-29T05:53:17.195Z - --------DONE----------
+2024-02-29T05:53:17.196Z - vehicle found - unconfigured - ST-GS4801  - trailers
+2024-02-29T05:53:19.023Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:20.139Z - Tires are successfully created and mounted
+2024-02-29T05:53:20.139Z - --------DONE----------
+2024-02-29T05:53:20.140Z - vehicle found - unconfigured - ST-GS4802  - trailers
+2024-02-29T05:53:22.911Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:24.898Z - Tires are successfully created and mounted
+2024-02-29T05:53:24.898Z - --------DONE----------
+2024-02-29T05:53:24.899Z - vehicle found - unconfigured - ST-GS4804  - trailers
+2024-02-29T05:53:26.295Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:27.362Z - Tires are successfully created and mounted
+2024-02-29T05:53:27.362Z - --------DONE----------
+2024-02-29T05:53:27.363Z - Vehicle is already configured - ST-GS4805 - trailers
+2024-02-29T05:53:28.177Z - configured but no tires are mounted case - manual entry suggested
+2024-02-29T05:53:28.177Z - ------------------DONE-------------
+2024-02-29T05:53:28.178Z - vehicle found - unconfigured - ST-GS4806  - trailers
+2024-02-29T05:53:29.119Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:29.955Z - Tires are successfully created and mounted
+2024-02-29T05:53:29.955Z - --------DONE----------
+2024-02-29T05:53:29.956Z - vehicle found - unconfigured - ST-GS4808  - trailers
+2024-02-29T05:53:30.605Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:31.306Z - Tires are successfully created and mounted
+2024-02-29T05:53:31.306Z - --------DONE----------
+2024-02-29T05:53:31.307Z - Vehicle is already configured - ST-GS4830 - trailers
+2024-02-29T05:53:31.499Z - configured and tires are mounted case
+2024-02-29T05:53:31.499Z - no changes are needed already latest tires are mounted
+2024-02-29T05:53:31.499Z - ---------------DONE------------
+2024-02-29T05:53:31.499Z - Vehicle is already configured - ST-GS4834 - trailers
+2024-02-29T05:53:31.685Z - configured and tires are mounted case
+2024-02-29T05:53:31.685Z - no changes are needed already latest tires are mounted
+2024-02-29T05:53:31.685Z - ---------------DONE------------
+2024-02-29T05:53:31.686Z - Vehicle is already configured - ST-GS4835 - trailers
+2024-02-29T05:53:31.873Z - configured and tires are mounted case
+2024-02-29T05:53:31.873Z - no changes are needed already latest tires are mounted
+2024-02-29T05:53:31.873Z - ---------------DONE------------
+2024-02-29T05:53:31.873Z - vehicle found - unconfigured - ST-GS4851  - trailers
+2024-02-29T05:53:32.565Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:33.376Z - Tires are successfully created and mounted
+2024-02-29T05:53:33.376Z - --------DONE----------
+2024-02-29T05:53:33.377Z - vehicle found - unconfigured - ST-GS4852  - trailers
+2024-02-29T05:53:34.084Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:34.894Z - Tires are successfully created and mounted
+2024-02-29T05:53:34.894Z - --------DONE----------
+2024-02-29T05:53:34.895Z - Vehicle is already configured - ST-GS4853 - trailers
+2024-02-29T05:53:35.080Z - configured and tires are mounted case
+2024-02-29T05:53:35.080Z - no changes are needed already latest tires are mounted
+2024-02-29T05:53:35.080Z - ---------------DONE------------
+2024-02-29T05:53:35.081Z - vehicle found - unconfigured - ST-GS4855  - trailers
+2024-02-29T05:53:35.795Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:36.619Z - Tires are successfully created and mounted
+2024-02-29T05:53:36.619Z - --------DONE----------
+2024-02-29T05:53:36.619Z - vehicle found - unconfigured - ST-GS4858  - trailers
+2024-02-29T05:53:37.361Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:38.232Z - Tires are successfully created and mounted
+2024-02-29T05:53:38.232Z - --------DONE----------
+2024-02-29T05:53:38.232Z - vehicle found - unconfigured - ST-GS4859  - trailers
+2024-02-29T05:53:39.082Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:39.979Z - Tires are successfully created and mounted
+2024-02-29T05:53:39.979Z - --------DONE----------
+2024-02-29T05:53:39.979Z - vehicle found - unconfigured - ST-GS4861  - trailers
+2024-02-29T05:53:40.674Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:41.484Z - Tires are successfully created and mounted
+2024-02-29T05:53:41.484Z - --------DONE----------
+2024-02-29T05:53:41.484Z - Vehicle is already configured - ST-GS4862 - trailers
+2024-02-29T05:53:41.670Z - configured and tires are mounted case
+2024-02-29T05:53:41.670Z - no changes are needed already latest tires are mounted
+2024-02-29T05:53:41.670Z - ---------------DONE------------
+2024-02-29T05:53:41.670Z - vehicle found - unconfigured - ST-GS4863  - trailers
+2024-02-29T05:53:42.484Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:43.316Z - Tires are successfully created and mounted
+2024-02-29T05:53:43.317Z - --------DONE----------
+2024-02-29T05:53:43.318Z - vehicle found - unconfigured - ST-GS4864  - trailers
+2024-02-29T05:53:44.091Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:45.225Z - Tires are successfully created and mounted
+2024-02-29T05:53:45.225Z - --------DONE----------
+2024-02-29T05:53:45.229Z - vehicle found - unconfigured - ST-GS6004  - trailers
+2024-02-29T05:53:46.084Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:46.878Z - Tires are successfully created and mounted
+2024-02-29T05:53:46.878Z - --------DONE----------
+2024-02-29T05:53:46.879Z - vehicle found - unconfigured - ST-GS6050  - trailers
+2024-02-29T05:53:47.735Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:48.676Z - Tires are successfully created and mounted
+2024-02-29T05:53:48.676Z - --------DONE----------
+2024-02-29T05:53:48.677Z - Vehicle is already configured - ST-GS6051 - trailers
+2024-02-29T05:53:48.863Z - configured but no tires are mounted case - manual entry suggested
+2024-02-29T05:53:48.863Z - ------------------DONE-------------
+2024-02-29T05:53:48.864Z - vehicle not found, creating  new  vehicles : ST-GS6354
+2024-02-29T05:53:49.681Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-GS 6354","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T05:53:49.682Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:53:50.446Z - Tires are successfully created and mounted
+2024-02-29T05:53:50.446Z - --------DONE----------
+2024-02-29T05:53:50.446Z - vehicle not found, creating  new  vehicles : ST-GS6356
+2024-02-29T05:53:51.259Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-GS 6356","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T05:53:51.259Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:53:52.088Z - Tires are successfully created and mounted
+2024-02-29T05:53:52.088Z - --------DONE----------
+2024-02-29T05:53:52.089Z - vehicle not found, creating  new  vehicles : ST-GS6360
+2024-02-29T05:53:52.863Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-GS 6360","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T05:53:52.863Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:53:53.707Z - Tires are successfully created and mounted
+2024-02-29T05:53:53.707Z - --------DONE----------
+2024-02-29T05:53:53.708Z - Vehicle is already configured - ST-GS6426 - trailers
+2024-02-29T05:53:53.900Z - configured and tires are mounted case
+2024-02-29T05:53:53.900Z - no changes are needed already latest tires are mounted
+2024-02-29T05:53:53.900Z - ---------------DONE------------
+2024-02-29T05:53:53.901Z - Vehicle is already configured - ST-GS6427 - trailers
+2024-02-29T05:53:54.090Z - configured and tires are mounted case
+2024-02-29T05:53:54.090Z - no changes are needed already latest tires are mounted
+2024-02-29T05:53:54.090Z - ---------------DONE------------
+2024-02-29T05:53:54.091Z - vehicle found - unconfigured - ST-GS6701  - trailers
+2024-02-29T05:53:54.874Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:55.753Z - Tires are successfully created and mounted
+2024-02-29T05:53:55.753Z - --------DONE----------
+2024-02-29T05:53:55.753Z - Vehicle is already configured - ST-GS6702 - trailers
+2024-02-29T05:53:55.941Z - configured and tires are mounted case
+2024-02-29T05:53:55.941Z - no changes are needed already latest tires are mounted
+2024-02-29T05:53:55.941Z - ---------------DONE------------
+2024-02-29T05:53:55.942Z - vehicle found - unconfigured - ST-GS6704  - trailers
+2024-02-29T05:53:56.707Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:57.458Z - Tires are successfully created and mounted
+2024-02-29T05:53:57.459Z - --------DONE----------
+2024-02-29T05:53:57.459Z - Vehicle is already configured - ST-GS6705 - trailers
+2024-02-29T05:53:57.650Z - configured and tires are mounted case
+2024-02-29T05:53:57.650Z - no changes are needed already latest tires are mounted
+2024-02-29T05:53:57.650Z - ---------------DONE------------
+2024-02-29T05:53:57.652Z - Vehicle is already configured - ST-GS6706 - trailers
+2024-02-29T05:53:57.841Z - configured and tires are mounted case
+2024-02-29T05:53:57.841Z - no changes are needed already latest tires are mounted
+2024-02-29T05:53:57.841Z - ---------------DONE------------
+2024-02-29T05:53:57.841Z - vehicle found - unconfigured - ST-GS6707  - trailers
+2024-02-29T05:53:58.544Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:53:59.267Z - Tires are successfully created and mounted
+2024-02-29T05:53:59.267Z - --------DONE----------
+2024-02-29T05:53:59.268Z - vehicle found - unconfigured - ST-GS74  - trucks
+2024-02-29T05:53:59.989Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:00.686Z - Tires are successfully created and mounted
+2024-02-29T05:54:00.686Z - --------DONE----------
+2024-02-29T05:54:00.687Z - vehicle found - unconfigured - ST-HB1622  - trailers
+2024-02-29T05:54:01.443Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:02.188Z - Tires are successfully created and mounted
+2024-02-29T05:54:02.188Z - --------DONE----------
+2024-02-29T05:54:02.188Z - Vehicle is already configured - ST-HB1752 - trailers
+2024-02-29T05:54:02.379Z - configured and tires are mounted case
+2024-02-29T05:54:02.379Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:02.379Z - ---------------DONE------------
+2024-02-29T05:54:02.380Z - Vehicle is already configured - ST-C1140 - trailers
+2024-02-29T05:54:02.574Z - configured and tires are mounted case
+2024-02-29T05:54:02.575Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:02.575Z - ---------------DONE------------
+2024-02-29T05:54:02.576Z - Vehicle is already configured - ST-C1706 - trucks
+2024-02-29T05:54:02.769Z - configured and tires are mounted case
+2024-02-29T05:54:02.769Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:02.769Z - ---------------DONE------------
+2024-02-29T05:54:02.771Z - Vehicle is already configured - ST-C1805 - trucks
+2024-02-29T05:54:02.963Z - configured and tires are mounted case
+2024-02-29T05:54:02.963Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:02.963Z - ---------------DONE------------
+2024-02-29T05:54:02.966Z - Vehicle is already configured - ST-C1806 - trucks
+2024-02-29T05:54:03.153Z - configured and tires are mounted case
+2024-02-29T05:54:03.154Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:03.154Z - ---------------DONE------------
+2024-02-29T05:54:03.155Z - Vehicle is already configured - ST-C192 - trucks
+2024-02-29T05:54:03.349Z - configured and tires are mounted case
+2024-02-29T05:54:03.350Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:03.350Z - ---------------DONE------------
+2024-02-29T05:54:03.350Z - Vehicle is already configured - ST-C209 - trucks
+2024-02-29T05:54:03.541Z - configured and tires are mounted case
+2024-02-29T05:54:03.541Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:03.541Z - ---------------DONE------------
+2024-02-29T05:54:03.542Z - Vehicle is already configured - ST-C213 - trucks
+2024-02-29T05:54:03.730Z - configured and tires are mounted case
+2024-02-29T05:54:03.730Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:03.730Z - ---------------DONE------------
+2024-02-29T05:54:03.732Z - Vehicle is already configured - ST-C238 - trailers
+2024-02-29T05:54:03.922Z - configured and tires are mounted case
+2024-02-29T05:54:03.922Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:03.922Z - ---------------DONE------------
+2024-02-29T05:54:03.923Z - Vehicle is already configured - ST-C260 - trucks
+2024-02-29T05:54:04.111Z - configured and tires are mounted case
+2024-02-29T05:54:04.111Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:04.111Z - ---------------DONE------------
+2024-02-29T05:54:04.113Z - Vehicle is already configured - ST-C270 - trailers
+2024-02-29T05:54:04.301Z - configured and tires are mounted case
+2024-02-29T05:54:04.301Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:04.301Z - ---------------DONE------------
+2024-02-29T05:54:04.302Z - Vehicle is already configured - ST-C290 - trucks
+2024-02-29T05:54:04.491Z - configured but no tires are mounted case - manual entry suggested
+2024-02-29T05:54:04.491Z - ------------------DONE-------------
+2024-02-29T05:54:04.491Z - Vehicle is already configured - ST-C356 - trailers
+2024-02-29T05:54:04.682Z - configured and tires are mounted case
+2024-02-29T05:54:04.682Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:04.682Z - ---------------DONE------------
+2024-02-29T05:54:04.682Z - vehicle found - unconfigured - ST-C359  - trailers
+2024-02-29T05:54:05.323Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:06.086Z - Tires are successfully created and mounted
+2024-02-29T05:54:06.086Z - --------DONE----------
+2024-02-29T05:54:06.087Z - vehicle found - unconfigured - ST-C6543  - trailers
+2024-02-29T05:54:06.687Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:07.606Z - Tires are successfully created and mounted
+2024-02-29T05:54:07.606Z - --------DONE----------
+2024-02-29T05:54:07.607Z - Vehicle is already configured - ST-C6544 - trailers
+2024-02-29T05:54:07.798Z - configured but no tires are mounted case - manual entry suggested
+2024-02-29T05:54:07.798Z - ------------------DONE-------------
+2024-02-29T05:54:07.799Z - Vehicle is already configured - ST-C6545 - trailers
+2024-02-29T05:54:07.989Z - configured and tires are mounted case
+2024-02-29T05:54:07.989Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:07.989Z - ---------------DONE------------
+2024-02-29T05:54:07.990Z - vehicle found - unconfigured - ST-C701  - trailers
+2024-02-29T05:54:08.735Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:09.468Z - Tires are successfully created and mounted
+2024-02-29T05:54:09.468Z - --------DONE----------
+2024-02-29T05:54:09.469Z - vehicle found - unconfigured - ST-C702  - trailers
+2024-02-29T05:54:10.193Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:10.927Z - Tires are successfully created and mounted
+2024-02-29T05:54:10.928Z - --------DONE----------
+2024-02-29T05:54:10.929Z - vehicle found - unconfigured - ST-C7655  - trailers
+2024-02-29T05:54:11.586Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:12.363Z - Tires are successfully created and mounted
+2024-02-29T05:54:12.363Z - --------DONE----------
+2024-02-29T05:54:12.363Z - vehicle found - unconfigured - ST-C801  - trailers
+2024-02-29T05:54:13.004Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:13.702Z - Tires are successfully created and mounted
+2024-02-29T05:54:13.702Z - --------DONE----------
+2024-02-29T05:54:13.703Z - vehicle found - unconfigured - ST-C802  - trailers
+2024-02-29T05:54:14.365Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:15.085Z - Tires are successfully created and mounted
+2024-02-29T05:54:15.085Z - --------DONE----------
+2024-02-29T05:54:15.086Z - vehicle found - unconfigured - ST-C803  - trailers
+2024-02-29T05:54:15.675Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:16.369Z - Tires are successfully created and mounted
+2024-02-29T05:54:16.369Z - --------DONE----------
+2024-02-29T05:54:16.371Z - vehicle found - unconfigured - ST-C902  - trailers
+2024-02-29T05:54:17.172Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:17.929Z - Tires are successfully created and mounted
+2024-02-29T05:54:17.929Z - --------DONE----------
+2024-02-29T05:54:17.930Z - vehicle found - unconfigured - ST-C903  - trailers
+2024-02-29T05:54:18.716Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:19.533Z - Tires are successfully created and mounted
+2024-02-29T05:54:19.533Z - --------DONE----------
+2024-02-29T05:54:19.535Z - vehicle found - unconfigured - ST-HK745  - trailers
+2024-02-29T05:54:20.180Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:20.922Z - Tires are successfully created and mounted
+2024-02-29T05:54:20.922Z - --------DONE----------
+2024-02-29T05:54:20.924Z - vehicle found - unconfigured - ST-HS1730  - trailers
+2024-02-29T05:54:21.654Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:22.402Z - Tires are successfully created and mounted
+2024-02-29T05:54:22.402Z - --------DONE----------
+2024-02-29T05:54:22.402Z - vehicle found - unconfigured - ST-HS1731  - trailers
+2024-02-29T05:54:23.062Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:23.768Z - Tires are successfully created and mounted
+2024-02-29T05:54:23.768Z - --------DONE----------
+2024-02-29T05:54:23.768Z - Vehicle is already configured - ST-HS1732 - trailers
+2024-02-29T05:54:24.577Z - configured and tires are mounted case
+2024-02-29T05:54:24.577Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:24.577Z - ---------------DONE------------
+2024-02-29T05:54:24.577Z - vehicle found - unconfigured - ST-HS1733  - trailers
+2024-02-29T05:54:25.240Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:26.039Z - Tires are successfully created and mounted
+2024-02-29T05:54:26.039Z - --------DONE----------
+2024-02-29T05:54:26.040Z - vehicle found - unconfigured - ST-HS1734  - trailers
+2024-02-29T05:54:26.723Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:27.544Z - Tires are successfully created and mounted
+2024-02-29T05:54:27.544Z - --------DONE----------
+2024-02-29T05:54:27.545Z - vehicle found - unconfigured - ST-HS1735  - trailers
+2024-02-29T05:54:28.333Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:29.142Z - Tires are successfully created and mounted
+2024-02-29T05:54:29.142Z - --------DONE----------
+2024-02-29T05:54:29.144Z - vehicle found - unconfigured - ST-HS1737  - trailers
+2024-02-29T05:54:29.818Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:30.569Z - Tires are successfully created and mounted
+2024-02-29T05:54:30.569Z - --------DONE----------
+2024-02-29T05:54:30.571Z - vehicle found - unconfigured - ST-HS1738  - trailers
+2024-02-29T05:54:31.210Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:31.911Z - Tires are successfully created and mounted
+2024-02-29T05:54:31.912Z - --------DONE----------
+2024-02-29T05:54:31.913Z - vehicle found - unconfigured - ST-HS1739  - trailers
+2024-02-29T05:54:32.548Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:33.274Z - Tires are successfully created and mounted
+2024-02-29T05:54:33.274Z - --------DONE----------
+2024-02-29T05:54:33.275Z - Vehicle is already configured - ST-HS1830 - trailers
+2024-02-29T05:54:33.449Z - configured and tires are mounted case
+2024-02-29T05:54:33.449Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:33.449Z - ---------------DONE------------
+2024-02-29T05:54:33.450Z - vehicle found - unconfigured - ST-HS1832  - trailers
+2024-02-29T05:54:34.156Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:34.992Z - Tires are successfully created and mounted
+2024-02-29T05:54:34.992Z - --------DONE----------
+2024-02-29T05:54:34.996Z - vehicle found - unconfigured - ST-HS1833  - trailers
+2024-02-29T05:54:35.694Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:36.413Z - Tires are successfully created and mounted
+2024-02-29T05:54:36.413Z - --------DONE----------
+2024-02-29T05:54:36.414Z - Vehicle is already configured - ST-HS1834 - trailers
+2024-02-29T05:54:36.589Z - configured and tires are mounted case
+2024-02-29T05:54:36.589Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:36.589Z - ---------------DONE------------
+2024-02-29T05:54:36.590Z - Vehicle is already configured - ST-HS1880 - trailers
+2024-02-29T05:54:36.792Z - configured and tires are mounted case
+2024-02-29T05:54:36.792Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:36.792Z - ---------------DONE------------
+2024-02-29T05:54:36.793Z - vehicle found - unconfigured - ST-HS1881  - trailers
+2024-02-29T05:54:37.471Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:38.165Z - Tires are successfully created and mounted
+2024-02-29T05:54:38.165Z - --------DONE----------
+2024-02-29T05:54:38.166Z - Vehicle is already configured - ST-HS1882 - trailers
+2024-02-29T05:54:38.353Z - configured and tires are mounted case
+2024-02-29T05:54:38.353Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:38.353Z - ---------------DONE------------
+2024-02-29T05:54:38.353Z - vehicle found - unconfigured - ST-HS1883  - trailers
+2024-02-29T05:54:39.013Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:39.845Z - Tires are successfully created and mounted
+2024-02-29T05:54:39.845Z - --------DONE----------
+2024-02-29T05:54:39.846Z - vehicle found - unconfigured - ST-HS1884  - trailers
+2024-02-29T05:54:40.544Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:41.233Z - Tires are successfully created and mounted
+2024-02-29T05:54:41.233Z - --------DONE----------
+2024-02-29T05:54:41.236Z - vehicle found - unconfigured - ST-HS1903  - trailers
+2024-02-29T05:54:42.152Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:42.920Z - Tires are successfully created and mounted
+2024-02-29T05:54:42.920Z - --------DONE----------
+2024-02-29T05:54:42.921Z - vehicle found - unconfigured - ST-HS1915  - trailers
+2024-02-29T05:54:43.572Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:44.272Z - Tires are successfully created and mounted
+2024-02-29T05:54:44.272Z - --------DONE----------
+2024-02-29T05:54:44.273Z - vehicle found - unconfigured - ST-HS1916  - trailers
+2024-02-29T05:54:45.048Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:45.789Z - Tires are successfully created and mounted
+2024-02-29T05:54:45.789Z - --------DONE----------
+2024-02-29T05:54:45.792Z - Vehicle is already configured - ST-HS1917 - trailers
+2024-02-29T05:54:45.969Z - configured and tires are mounted case
+2024-02-29T05:54:45.969Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:45.969Z - ---------------DONE------------
+2024-02-29T05:54:45.971Z - vehicle found - unconfigured - ST-HS1918  - trailers
+2024-02-29T05:54:46.619Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:47.296Z - Tires are successfully created and mounted
+2024-02-29T05:54:47.296Z - --------DONE----------
+2024-02-29T05:54:47.296Z - Vehicle is already configured - ST-HS1922 - trailers
+2024-02-29T05:54:47.473Z - configured and tires are mounted case
+2024-02-29T05:54:47.473Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:47.473Z - ---------------DONE------------
+2024-02-29T05:54:47.473Z - vehicle found - unconfigured - ST-HS1923  - trailers
+2024-02-29T05:54:48.106Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:48.821Z - Tires are successfully created and mounted
+2024-02-29T05:54:48.821Z - --------DONE----------
+2024-02-29T05:54:48.822Z - vehicle found - unconfigured - ST-HS1926  - trailers
+2024-02-29T05:54:49.489Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:50.172Z - Tires are successfully created and mounted
+2024-02-29T05:54:50.173Z - --------DONE----------
+2024-02-29T05:54:50.173Z - vehicle found - unconfigured - ST-HS1928  - trailers
+2024-02-29T05:54:50.792Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:51.491Z - Tires are successfully created and mounted
+2024-02-29T05:54:51.492Z - --------DONE----------
+2024-02-29T05:54:51.492Z - vehicle found - unconfigured - ST-HS1930  - trailers
+2024-02-29T05:54:52.126Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:52.861Z - Tires are successfully created and mounted
+2024-02-29T05:54:52.861Z - --------DONE----------
+2024-02-29T05:54:52.862Z - Vehicle is already configured - ST-HS1932 - trailers
+2024-02-29T05:54:53.040Z - configured and tires are mounted case
+2024-02-29T05:54:53.040Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:53.040Z - ---------------DONE------------
+2024-02-29T05:54:53.040Z - vehicle found - unconfigured - ST-HS1933  - trailers
+2024-02-29T05:54:53.660Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:54.325Z - Tires are successfully created and mounted
+2024-02-29T05:54:54.325Z - --------DONE----------
+2024-02-29T05:54:54.327Z - Vehicle is already configured - ST-HS1934 - trailers
+2024-02-29T05:54:54.502Z - configured and tires are mounted case
+2024-02-29T05:54:54.503Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:54.503Z - ---------------DONE------------
+2024-02-29T05:54:54.504Z - vehicle found - unconfigured - ST-HS1938  - trailers
+2024-02-29T05:54:55.109Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:55.795Z - Tires are successfully created and mounted
+2024-02-29T05:54:55.795Z - --------DONE----------
+2024-02-29T05:54:55.795Z - vehicle found - unconfigured - ST-HS1941  - trailers
+2024-02-29T05:54:56.392Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:57.112Z - Tires are successfully created and mounted
+2024-02-29T05:54:57.112Z - --------DONE----------
+2024-02-29T05:54:57.114Z - Vehicle is already configured - ST-HS1951 - trailers
+2024-02-29T05:54:57.294Z - configured and tires are mounted case
+2024-02-29T05:54:57.295Z - no changes are needed already latest tires are mounted
+2024-02-29T05:54:57.295Z - ---------------DONE------------
+2024-02-29T05:54:57.296Z - vehicle found - unconfigured - ST-HS1952  - trailers
+2024-02-29T05:54:58.033Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:54:58.786Z - Tires are successfully created and mounted
+2024-02-29T05:54:58.786Z - --------DONE----------
+2024-02-29T05:54:58.787Z - vehicle found - unconfigured - ST-HS1953  - trailers
+2024-02-29T05:54:59.448Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:00.056Z - Tires are successfully created and mounted
+2024-02-29T05:55:00.056Z - --------DONE----------
+2024-02-29T05:55:00.057Z - vehicle found - unconfigured - ST-HS1955  - trailers
+2024-02-29T05:55:00.729Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:01.580Z - Tires are successfully created and mounted
+2024-02-29T05:55:01.580Z - --------DONE----------
+2024-02-29T05:55:01.582Z - vehicle found - unconfigured - ST-HS1962  - trailers
+2024-02-29T05:55:02.302Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:03.054Z - Tires are successfully created and mounted
+2024-02-29T05:55:03.054Z - --------DONE----------
+2024-02-29T05:55:03.055Z - vehicle found - unconfigured - ST-HS1967  - trailers
+2024-02-29T05:55:03.711Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:04.517Z - Tires are successfully created and mounted
+2024-02-29T05:55:04.517Z - --------DONE----------
+2024-02-29T05:55:04.517Z - vehicle found - unconfigured - ST-HS1972  - trailers
+2024-02-29T05:55:05.194Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:05.895Z - Tires are successfully created and mounted
+2024-02-29T05:55:05.895Z - --------DONE----------
+2024-02-29T05:55:05.895Z - vehicle found - unconfigured - ST-HS1973  - trailers
+2024-02-29T05:55:06.504Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:07.238Z - Tires are successfully created and mounted
+2024-02-29T05:55:07.238Z - --------DONE----------
+2024-02-29T05:55:07.239Z - Vehicle is already configured - ST-HS1975 - trailers
+2024-02-29T05:55:07.416Z - configured and tires are mounted case
+2024-02-29T05:55:07.416Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:07.416Z - ---------------DONE------------
+2024-02-29T05:55:07.418Z - vehicle found - unconfigured - ST-HS1979  - trailers
+2024-02-29T05:55:08.076Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:08.934Z - Tires are successfully created and mounted
+2024-02-29T05:55:08.934Z - --------DONE----------
+2024-02-29T05:55:08.936Z - vehicle found - unconfigured - ST-HS1980  - trailers
+2024-02-29T05:55:09.644Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:10.354Z - Tires are successfully created and mounted
+2024-02-29T05:55:10.354Z - --------DONE----------
+2024-02-29T05:55:10.355Z - Vehicle is already configured - ST-HS1983 - trailers
+2024-02-29T05:55:10.536Z - configured and tires are mounted case
+2024-02-29T05:55:10.536Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:10.536Z - ---------------DONE------------
+2024-02-29T05:55:10.538Z - Vehicle is already configured - ST-HS2023 - trailers
+2024-02-29T05:55:10.714Z - configured and tires are mounted case
+2024-02-29T05:55:10.714Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:10.714Z - ---------------DONE------------
+2024-02-29T05:55:10.715Z - vehicle found - unconfigured - ST-HS2024  - trailers
+2024-02-29T05:55:11.387Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:12.137Z - Tires are successfully created and mounted
+2024-02-29T05:55:12.137Z - --------DONE----------
+2024-02-29T05:55:12.139Z - Vehicle is already configured - ST-HS2027 - trailers
+2024-02-29T05:55:12.317Z - configured and tires are mounted case
+2024-02-29T05:55:12.317Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:12.317Z - ---------------DONE------------
+2024-02-29T05:55:12.318Z - Vehicle is already configured - ST-HS2028 - trailers
+2024-02-29T05:55:12.592Z - configured and tires are mounted case
+2024-02-29T05:55:12.593Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:12.593Z - ---------------DONE------------
+2024-02-29T05:55:12.593Z - Vehicle is already configured - ST-HS2029 - trailers
+2024-02-29T05:55:12.770Z - configured and tires are mounted case
+2024-02-29T05:55:12.770Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:12.770Z - ---------------DONE------------
+2024-02-29T05:55:12.773Z - vehicle found - unconfigured - ST-HS2101  - trailers
+2024-02-29T05:55:13.375Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:14.060Z - Tires are successfully created and mounted
+2024-02-29T05:55:14.060Z - --------DONE----------
+2024-02-29T05:55:14.060Z - vehicle found - unconfigured - ST-HS2103  - trailers
+2024-02-29T05:55:14.677Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:15.371Z - Tires are successfully created and mounted
+2024-02-29T05:55:15.371Z - --------DONE----------
+2024-02-29T05:55:15.371Z - vehicle found - unconfigured - ST-HS2104  - trailers
+2024-02-29T05:55:16.092Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:16.817Z - Tires are successfully created and mounted
+2024-02-29T05:55:16.817Z - --------DONE----------
+2024-02-29T05:55:16.821Z - Vehicle is already configured - ST-HS2105 - trailers
+2024-02-29T05:55:16.998Z - configured and tires are mounted case
+2024-02-29T05:55:16.998Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:16.998Z - ---------------DONE------------
+2024-02-29T05:55:16.999Z - Vehicle is already configured - ST-HS2107 - trailers
+2024-02-29T05:55:17.179Z - configured and tires are mounted case
+2024-02-29T05:55:17.179Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:17.179Z - ---------------DONE------------
+2024-02-29T05:55:17.179Z - Vehicle is already configured - ST-HS2108 - trailers
+2024-02-29T05:55:17.357Z - configured and tires are mounted case
+2024-02-29T05:55:17.357Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:17.357Z - ---------------DONE------------
+2024-02-29T05:55:17.359Z - Vehicle is already configured - ST-HS2112 - trailers
+2024-02-29T05:55:17.615Z - configured and tires are mounted case
+2024-02-29T05:55:17.615Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:17.615Z - ---------------DONE------------
+2024-02-29T05:55:17.616Z - Vehicle is already configured - ST-HS2113 - trailers
+2024-02-29T05:55:18.456Z - configured and tires are mounted case
+2024-02-29T05:55:18.456Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:18.456Z - ---------------DONE------------
+2024-02-29T05:55:18.457Z - vehicle found - unconfigured - ST-HS2114  - trailers
+2024-02-29T05:55:19.159Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:20.082Z - Tires are successfully created and mounted
+2024-02-29T05:55:20.082Z - --------DONE----------
+2024-02-29T05:55:20.083Z - Vehicle is already configured - ST-HS2117 - trailers
+2024-02-29T05:55:20.259Z - configured but no tires are mounted case - manual entry suggested
+2024-02-29T05:55:20.259Z - ------------------DONE-------------
+2024-02-29T05:55:20.261Z - vehicle found - unconfigured - ST-HS2118  - trailers
+2024-02-29T05:55:20.925Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:21.691Z - Tires are successfully created and mounted
+2024-02-29T05:55:21.691Z - --------DONE----------
+2024-02-29T05:55:21.693Z - vehicle found - unconfigured - ST-HS2119  - trailers
+2024-02-29T05:55:22.332Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:23.018Z - Tires are successfully created and mounted
+2024-02-29T05:55:23.018Z - --------DONE----------
+2024-02-29T05:55:23.019Z - Vehicle is already configured - ST-HS2122 - trailers
+2024-02-29T05:55:23.196Z - configured and tires are mounted case
+2024-02-29T05:55:23.196Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:23.196Z - ---------------DONE------------
+2024-02-29T05:55:23.196Z - Vehicle is already configured - ST-HS2123 - trailers
+2024-02-29T05:55:23.374Z - configured and tires are mounted case
+2024-02-29T05:55:23.374Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:23.375Z - ---------------DONE------------
+2024-02-29T05:55:23.375Z - Vehicle is already configured - ST-HS2202 - trailers
+2024-02-29T05:55:23.561Z - configured and tires are mounted case
+2024-02-29T05:55:23.561Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:23.561Z - ---------------DONE------------
+2024-02-29T05:55:23.561Z - vehicle found - unconfigured - ST-HS2204  - trailers
+2024-02-29T05:55:24.151Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:24.860Z - Tires are successfully created and mounted
+2024-02-29T05:55:24.860Z - --------DONE----------
+2024-02-29T05:55:24.861Z - vehicle found - unconfigured - ST-HS2206  - trailers
+2024-02-29T05:55:25.443Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:26.168Z - Tires are successfully created and mounted
+2024-02-29T05:55:26.168Z - --------DONE----------
+2024-02-29T05:55:26.170Z - vehicle found - unconfigured - ST-HS2208  - trailers
+2024-02-29T05:55:26.806Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:27.534Z - Tires are successfully created and mounted
+2024-02-29T05:55:27.534Z - --------DONE----------
+2024-02-29T05:55:27.534Z - vehicle found - unconfigured - ST-HS2223  - trailers
+2024-02-29T05:55:28.245Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:28.958Z - Tires are successfully created and mounted
+2024-02-29T05:55:28.958Z - --------DONE----------
+2024-02-29T05:55:28.958Z - vehicle found - unconfigured - ST-HS2225  - trailers
+2024-02-29T05:55:29.560Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:30.251Z - Tires are successfully created and mounted
+2024-02-29T05:55:30.251Z - --------DONE----------
+2024-02-29T05:55:30.252Z - vehicle found - unconfigured - ST-HS2226  - trailers
+2024-02-29T05:55:30.949Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:31.647Z - Tires are successfully created and mounted
+2024-02-29T05:55:31.647Z - --------DONE----------
+2024-02-29T05:55:31.649Z - vehicle not found, creating  new  vehicles : ST-HS2227
+2024-02-29T05:55:32.383Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-HS 2227","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T05:55:32.383Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:55:33.094Z - Tires are successfully created and mounted
+2024-02-29T05:55:33.095Z - --------DONE----------
+2024-02-29T05:55:33.097Z - vehicle found - unconfigured - ST-HS2273  - trailers
+2024-02-29T05:55:33.746Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:34.479Z - Tires are successfully created and mounted
+2024-02-29T05:55:34.479Z - --------DONE----------
+2024-02-29T05:55:34.481Z - Vehicle is already configured - ST-HS2275 - trailers
+2024-02-29T05:55:35.300Z - configured and tires are mounted case
+2024-02-29T05:55:35.301Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:35.301Z - ---------------DONE------------
+2024-02-29T05:55:35.302Z - vehicle found - unconfigured - ST-HS2277  - trailers
+2024-02-29T05:55:36.063Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:36.833Z - Tires are successfully created and mounted
+2024-02-29T05:55:36.833Z - --------DONE----------
+2024-02-29T05:55:36.836Z - vehicle not found, creating  new  vehicles : ST-HS2303
+2024-02-29T05:55:37.495Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-HS 2303","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T05:55:37.495Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:55:38.184Z - Tires are successfully created and mounted
+2024-02-29T05:55:38.184Z - --------DONE----------
+2024-02-29T05:55:38.185Z - vehicle not found, creating  new  vehicles : ST-HS2313
+2024-02-29T05:55:38.838Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-HS 2313","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T05:55:38.838Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:55:39.629Z - Tires are successfully created and mounted
+2024-02-29T05:55:39.629Z - --------DONE----------
+2024-02-29T05:55:39.632Z - vehicle not found, creating  new  vehicles : ST-HS2323
+2024-02-29T05:55:40.271Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-HS 2323","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T05:55:40.271Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:55:41.046Z - Tires are successfully created and mounted
+2024-02-29T05:55:41.046Z - --------DONE----------
+2024-02-29T05:55:41.047Z - vehicle not found, creating  new  vehicles : ST-HS2399
+2024-02-29T05:55:41.714Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-HS 2399","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T05:55:41.714Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:55:42.420Z - Tires are successfully created and mounted
+2024-02-29T05:55:42.420Z - --------DONE----------
+2024-02-29T05:55:42.423Z - vehicle found - unconfigured - ST-HS337  - trailers
+2024-02-29T05:55:43.065Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:43.825Z - Tires are successfully created and mounted
+2024-02-29T05:55:43.825Z - --------DONE----------
+2024-02-29T05:55:43.826Z - vehicle found - unconfigured - ST-HS521  - trailers
+2024-02-29T05:55:44.589Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:45.358Z - Tires are successfully created and mounted
+2024-02-29T05:55:45.358Z - --------DONE----------
+2024-02-29T05:55:45.359Z - vehicle found - unconfigured - ST-HS527  - trailers
+2024-02-29T05:55:45.964Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:46.612Z - Tires are successfully created and mounted
+2024-02-29T05:55:46.612Z - --------DONE----------
+2024-02-29T05:55:46.613Z - vehicle found - unconfigured - ST-HS533  - trailers
+2024-02-29T05:55:47.233Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:47.938Z - Tires are successfully created and mounted
+2024-02-29T05:55:47.938Z - --------DONE----------
+2024-02-29T05:55:47.938Z - Vehicle is already configured - ST-HS536 - trailers
+2024-02-29T05:55:48.689Z - configured and tires are mounted case
+2024-02-29T05:55:48.689Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:48.689Z - ---------------DONE------------
+2024-02-29T05:55:48.690Z - Vehicle is already configured - ST-HS538 - trailers
+2024-02-29T05:55:48.871Z - configured and tires are mounted case
+2024-02-29T05:55:48.871Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:48.871Z - ---------------DONE------------
+2024-02-29T05:55:48.871Z - Vehicle is already configured - ST-HS539 - trailers
+2024-02-29T05:55:49.042Z - configured and tires are mounted case
+2024-02-29T05:55:49.042Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:49.042Z - ---------------DONE------------
+2024-02-29T05:55:49.044Z - Vehicle is already configured - ST-HS543 - trailers
+2024-02-29T05:55:49.218Z - configured and tires are mounted case
+2024-02-29T05:55:49.218Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:49.218Z - ---------------DONE------------
+2024-02-29T05:55:49.218Z - Vehicle is already configured - ST-HS544 - trailers
+2024-02-29T05:55:49.398Z - configured and tires are mounted case
+2024-02-29T05:55:49.398Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:49.398Z - ---------------DONE------------
+2024-02-29T05:55:49.398Z - Vehicle is already configured - ST-HS545 - trailers
+2024-02-29T05:55:49.572Z - configured and tires are mounted case
+2024-02-29T05:55:49.572Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:49.572Z - ---------------DONE------------
+2024-02-29T05:55:49.574Z - vehicle found - unconfigured - ST-HS546  - trailers
+2024-02-29T05:55:50.205Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:50.953Z - Tires are successfully created and mounted
+2024-02-29T05:55:50.953Z - --------DONE----------
+2024-02-29T05:55:50.954Z - Vehicle is already configured - ST-HS548 - trailers
+2024-02-29T05:55:51.127Z - configured and tires are mounted case
+2024-02-29T05:55:51.128Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:51.128Z - ---------------DONE------------
+2024-02-29T05:55:51.131Z - vehicle found - unconfigured - ST-HS552  - trailers
+2024-02-29T05:55:51.780Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:52.482Z - Tires are successfully created and mounted
+2024-02-29T05:55:52.482Z - --------DONE----------
+2024-02-29T05:55:52.483Z - Vehicle is already configured - ST-HS553 - trailers
+2024-02-29T05:55:52.658Z - configured and tires are mounted case
+2024-02-29T05:55:52.658Z - no changes are needed already latest tires are mounted
+2024-02-29T05:55:52.658Z - ---------------DONE------------
+2024-02-29T05:55:52.659Z - vehicle found - unconfigured - ST-HS560  - trailers
+2024-02-29T05:55:53.259Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:53.964Z - Tires are successfully created and mounted
+2024-02-29T05:55:53.964Z - --------DONE----------
+2024-02-29T05:55:53.964Z - vehicle found - unconfigured - ST-HS561  - trailers
+2024-02-29T05:55:54.577Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:55.365Z - Tires are successfully created and mounted
+2024-02-29T05:55:55.365Z - --------DONE----------
+2024-02-29T05:55:55.366Z - vehicle found - unconfigured - ST-HS562  - trailers
+2024-02-29T05:55:56.107Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:56.919Z - Tires are successfully created and mounted
+2024-02-29T05:55:56.919Z - --------DONE----------
+2024-02-29T05:55:56.920Z - vehicle found - unconfigured - ST-HS563  - trailers
+2024-02-29T05:55:57.531Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:58.143Z - Tires are successfully created and mounted
+2024-02-29T05:55:58.143Z - --------DONE----------
+2024-02-29T05:55:58.145Z - vehicle found - unconfigured - ST-HS565  - trailers
+2024-02-29T05:55:58.770Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:55:59.514Z - Tires are successfully created and mounted
+2024-02-29T05:55:59.515Z - --------DONE----------
+2024-02-29T05:55:59.516Z - vehicle found - unconfigured - ST-HS566  - trailers
+2024-02-29T05:56:00.165Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:00.922Z - Tires are successfully created and mounted
+2024-02-29T05:56:00.922Z - --------DONE----------
+2024-02-29T05:56:00.922Z - vehicle found - unconfigured - ST-HS568  - trailers
+2024-02-29T05:56:01.552Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:02.280Z - Tires are successfully created and mounted
+2024-02-29T05:56:02.280Z - --------DONE----------
+2024-02-29T05:56:02.281Z - Vehicle is already configured - ST-HS569 - trailers
+2024-02-29T05:56:02.456Z - configured and tires are mounted case
+2024-02-29T05:56:02.456Z - no changes are needed already latest tires are mounted
+2024-02-29T05:56:02.456Z - ---------------DONE------------
+2024-02-29T05:56:02.457Z - vehicle found - unconfigured - ST-HS571  - trailers
+2024-02-29T05:56:03.054Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:03.748Z - Tires are successfully created and mounted
+2024-02-29T05:56:03.748Z - --------DONE----------
+2024-02-29T05:56:03.749Z - vehicle found - unconfigured - ST-HS572  - trailers
+2024-02-29T05:56:04.344Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:05.047Z - Tires are successfully created and mounted
+2024-02-29T05:56:05.047Z - --------DONE----------
+2024-02-29T05:56:05.048Z - Vehicle is already configured - ST-HS573 - trailers
+2024-02-29T05:56:05.219Z - configured and tires are mounted case
+2024-02-29T05:56:05.219Z - no changes are needed already latest tires are mounted
+2024-02-29T05:56:05.219Z - ---------------DONE------------
+2024-02-29T05:56:05.220Z - vehicle found - unconfigured - ST-HS574  - trailers
+2024-02-29T05:56:05.926Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:06.776Z - Tires are successfully created and mounted
+2024-02-29T05:56:06.776Z - --------DONE----------
+2024-02-29T05:56:06.777Z - Vehicle is already configured - ST-HS576 - trailers
+2024-02-29T05:56:06.951Z - configured and tires are mounted case
+2024-02-29T05:56:06.951Z - no changes are needed already latest tires are mounted
+2024-02-29T05:56:06.951Z - ---------------DONE------------
+2024-02-29T05:56:06.953Z - Vehicle is already configured - ST-HS594 - trailers
+2024-02-29T05:56:07.134Z - configured and tires are mounted case
+2024-02-29T05:56:07.134Z - no changes are needed already latest tires are mounted
+2024-02-29T05:56:07.134Z - ---------------DONE------------
+2024-02-29T05:56:07.134Z - vehicle found - unconfigured - ST-HS597  - trailers
+2024-02-29T05:56:07.802Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:08.492Z - Tires are successfully created and mounted
+2024-02-29T05:56:08.492Z - --------DONE----------
+2024-02-29T05:56:08.492Z - vehicle found - unconfigured - ST-HS599  - trailers
+2024-02-29T05:56:09.063Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:09.824Z - Tires are successfully created and mounted
+2024-02-29T05:56:09.824Z - --------DONE----------
+2024-02-29T05:56:09.824Z - Vehicle is already configured - ST-HS605 - trailers
+2024-02-29T05:56:10.002Z - configured and tires are mounted case
+2024-02-29T05:56:10.002Z - no changes are needed already latest tires are mounted
+2024-02-29T05:56:10.002Z - ---------------DONE------------
+2024-02-29T05:56:10.003Z - vehicle found - unconfigured - ST-HS609  - trailers
+2024-02-29T05:56:11.217Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:12.050Z - Tires are successfully created and mounted
+2024-02-29T05:56:12.050Z - --------DONE----------
+2024-02-29T05:56:12.051Z - vehicle found - unconfigured - ST-HS631  - trailers
+2024-02-29T05:56:12.646Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:13.482Z - Tires are successfully created and mounted
+2024-02-29T05:56:13.482Z - --------DONE----------
+2024-02-29T05:56:13.484Z - vehicle found - unconfigured - ST-HS632  - trailers
+2024-02-29T05:56:14.097Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:15.150Z - Tires are successfully created and mounted
+2024-02-29T05:56:15.150Z - --------DONE----------
+2024-02-29T05:56:15.151Z - vehicle found - unconfigured - ST-HS634  - trailers
+2024-02-29T05:56:15.807Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:16.535Z - Tires are successfully created and mounted
+2024-02-29T05:56:16.535Z - --------DONE----------
+2024-02-29T05:56:16.537Z - Vehicle is already configured - ST-HS636 - trailers
+2024-02-29T05:56:16.721Z - configured and tires are mounted case
+2024-02-29T05:56:16.722Z - no changes are needed already latest tires are mounted
+2024-02-29T05:56:16.722Z - ---------------DONE------------
+2024-02-29T05:56:16.723Z - vehicle found - unconfigured - ST-HS638  - trailers
+2024-02-29T05:56:17.308Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:18.041Z - Tires are successfully created and mounted
+2024-02-29T05:56:18.041Z - --------DONE----------
+2024-02-29T05:56:18.042Z - vehicle found - unconfigured - ST-HS639  - trailers
+2024-02-29T05:56:18.630Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:19.331Z - Tires are successfully created and mounted
+2024-02-29T05:56:19.331Z - --------DONE----------
+2024-02-29T05:56:19.333Z - Vehicle is already configured - ST-HS6566 - trailers
+2024-02-29T05:56:19.505Z - configured but no tires are mounted case - manual entry suggested
+2024-02-29T05:56:19.505Z - ------------------DONE-------------
+2024-02-29T05:56:19.506Z - vehicle found - unconfigured - ST-HS715  - trailers
+2024-02-29T05:56:20.198Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:21.055Z - Tires are successfully created and mounted
+2024-02-29T05:56:21.055Z - --------DONE----------
+2024-02-29T05:56:21.056Z - vehicle found - unconfigured - ST-HS724  - trailers
+2024-02-29T05:56:21.780Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:22.516Z - Tires are successfully created and mounted
+2024-02-29T05:56:22.516Z - --------DONE----------
+2024-02-29T05:56:22.516Z - vehicle found - unconfigured - ST-HS728  - trailers
+2024-02-29T05:56:23.150Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:23.875Z - Tires are successfully created and mounted
+2024-02-29T05:56:23.875Z - --------DONE----------
+2024-02-29T05:56:23.876Z - Vehicle is already configured - ST-HS731 - trailers
+2024-02-29T05:56:24.054Z - configured and tires are mounted case
+2024-02-29T05:56:24.054Z - no changes are needed already latest tires are mounted
+2024-02-29T05:56:24.054Z - ---------------DONE------------
+2024-02-29T05:56:24.055Z - vehicle found - unconfigured - ST-HS732  - trailers
+2024-02-29T05:56:24.659Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:25.422Z - Tires are successfully created and mounted
+2024-02-29T05:56:25.422Z - --------DONE----------
+2024-02-29T05:56:25.423Z - vehicle found - unconfigured - ST-HS736  - trailers
+2024-02-29T05:56:26.059Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:27.027Z - Tires are successfully created and mounted
+2024-02-29T05:56:27.027Z - --------DONE----------
+2024-02-29T05:56:27.028Z - vehicle found - unconfigured - ST-HS738  - trailers
+2024-02-29T05:56:27.742Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:28.425Z - Tires are successfully created and mounted
+2024-02-29T05:56:28.425Z - --------DONE----------
+2024-02-29T05:56:28.427Z - Vehicle is already configured - ST-HS739 - trailers
+2024-02-29T05:56:28.601Z - configured and tires are mounted case
+2024-02-29T05:56:28.601Z - no changes are needed already latest tires are mounted
+2024-02-29T05:56:28.601Z - ---------------DONE------------
+2024-02-29T05:56:28.602Z - vehicle found - unconfigured - ST-HS742  - trailers
+2024-02-29T05:56:29.232Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:30.025Z - Tires are successfully created and mounted
+2024-02-29T05:56:30.025Z - --------DONE----------
+2024-02-29T05:56:30.028Z - vehicle found - unconfigured - ST-HS743  - trailers
+2024-02-29T05:56:30.693Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:31.533Z - Tires are successfully created and mounted
+2024-02-29T05:56:31.533Z - --------DONE----------
+2024-02-29T05:56:31.534Z - vehicle found - unconfigured - ST-HS744  - trailers
+2024-02-29T05:56:32.215Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:32.935Z - Tires are successfully created and mounted
+2024-02-29T05:56:32.935Z - --------DONE----------
+2024-02-29T05:56:32.937Z - vehicle found - unconfigured - ST-HS745  - trailers
+2024-02-29T05:56:33.545Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:34.275Z - Tires are successfully created and mounted
+2024-02-29T05:56:34.275Z - --------DONE----------
+2024-02-29T05:56:34.276Z - vehicle found - unconfigured - ST-HS746  - trailers
+2024-02-29T05:56:34.867Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:35.529Z - Tires are successfully created and mounted
+2024-02-29T05:56:35.529Z - --------DONE----------
+2024-02-29T05:56:35.530Z - vehicle found - unconfigured - ST-HS747  - trailers
+2024-02-29T05:56:36.135Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:36.860Z - Tires are successfully created and mounted
+2024-02-29T05:56:36.860Z - --------DONE----------
+2024-02-29T05:56:36.861Z - Vehicle is already configured - ST-HS748 - trailers
+2024-02-29T05:56:37.034Z - configured and tires are mounted case
+2024-02-29T05:56:37.035Z - no changes are needed already latest tires are mounted
+2024-02-29T05:56:37.035Z - ---------------DONE------------
+2024-02-29T05:56:37.035Z - vehicle found - unconfigured - ST-HS749  - trailers
+2024-02-29T05:56:37.653Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:38.373Z - Tires are successfully created and mounted
+2024-02-29T05:56:38.374Z - --------DONE----------
+2024-02-29T05:56:38.375Z - vehicle found - unconfigured - ST-HS752  - trailers
+2024-02-29T05:56:38.971Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:39.641Z - Tires are successfully created and mounted
+2024-02-29T05:56:39.641Z - --------DONE----------
+2024-02-29T05:56:39.642Z - vehicle found - unconfigured - ST-HS754  - trailers
+2024-02-29T05:56:40.255Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:41.051Z - Tires are successfully created and mounted
+2024-02-29T05:56:41.051Z - --------DONE----------
+2024-02-29T05:56:41.052Z - vehicle found - unconfigured - ST-HS758  - trailers
+2024-02-29T05:56:41.662Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:42.388Z - Tires are successfully created and mounted
+2024-02-29T05:56:42.388Z - --------DONE----------
+2024-02-29T05:56:42.389Z - Vehicle is already configured - ST-HS759 - trailers
+2024-02-29T05:56:42.565Z - configured and tires are mounted case
+2024-02-29T05:56:42.565Z - no changes are needed already latest tires are mounted
+2024-02-29T05:56:42.565Z - ---------------DONE------------
+2024-02-29T05:56:42.567Z - vehicle found - unconfigured - ST-HS763  - trailers
+2024-02-29T05:56:43.231Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:43.938Z - Tires are successfully created and mounted
+2024-02-29T05:56:43.938Z - --------DONE----------
+2024-02-29T05:56:43.938Z - vehicle found - unconfigured - ST-HS764  - trailers
+2024-02-29T05:56:44.598Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:45.302Z - Tires are successfully created and mounted
+2024-02-29T05:56:45.302Z - --------DONE----------
+2024-02-29T05:56:45.303Z - Vehicle is already configured - ST-HS768 - trailers
+2024-02-29T05:56:45.479Z - configured and tires are mounted case
+2024-02-29T05:56:45.479Z - no changes are needed already latest tires are mounted
+2024-02-29T05:56:45.479Z - ---------------DONE------------
+2024-02-29T05:56:45.480Z - vehicle found - unconfigured - ST-HS775  - trailers
+2024-02-29T05:56:46.285Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:47.036Z - Tires are successfully created and mounted
+2024-02-29T05:56:47.036Z - --------DONE----------
+2024-02-29T05:56:47.036Z - vehicle found - unconfigured - ST-HS776  - trailers
+2024-02-29T05:56:47.648Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:48.397Z - Tires are successfully created and mounted
+2024-02-29T05:56:48.397Z - --------DONE----------
+2024-02-29T05:56:48.397Z - vehicle found - unconfigured - ST-HS779  - trailers
+2024-02-29T05:56:49.020Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:49.929Z - Tires are successfully created and mounted
+2024-02-29T05:56:49.929Z - --------DONE----------
+2024-02-29T05:56:49.930Z - vehicle found - unconfigured - ST-HS781  - trailers
+2024-02-29T05:56:50.526Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:51.207Z - Tires are successfully created and mounted
+2024-02-29T05:56:51.207Z - --------DONE----------
+2024-02-29T05:56:51.209Z - vehicle found - unconfigured - ST-HS782  - trailers
+2024-02-29T05:56:51.817Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:52.427Z - Tires are successfully created and mounted
+2024-02-29T05:56:52.427Z - --------DONE----------
+2024-02-29T05:56:52.428Z - vehicle found - unconfigured - ST-HS783  - trailers
+2024-02-29T05:56:53.014Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:53.725Z - Tires are successfully created and mounted
+2024-02-29T05:56:53.725Z - --------DONE----------
+2024-02-29T05:56:53.725Z - vehicle found - unconfigured - ST-HS784  - trailers
+2024-02-29T05:56:54.338Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:55.081Z - Tires are successfully created and mounted
+2024-02-29T05:56:55.081Z - --------DONE----------
+2024-02-29T05:56:55.081Z - vehicle found - unconfigured - ST-HS785  - trailers
+2024-02-29T05:56:55.745Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:56.551Z - Tires are successfully created and mounted
+2024-02-29T05:56:56.552Z - --------DONE----------
+2024-02-29T05:56:56.553Z - Vehicle is already configured - ST-HS786 - trailers
+2024-02-29T05:56:57.330Z - configured and tires are mounted case
+2024-02-29T05:56:57.330Z - no changes are needed already latest tires are mounted
+2024-02-29T05:56:57.330Z - ---------------DONE------------
+2024-02-29T05:56:57.330Z - vehicle found - unconfigured - ST-HS787  - trailers
+2024-02-29T05:56:57.926Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:56:58.726Z - Tires are successfully created and mounted
+2024-02-29T05:56:58.726Z - --------DONE----------
+2024-02-29T05:56:58.727Z - vehicle found - unconfigured - ST-HS788  - trailers
+2024-02-29T05:56:59.365Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:00.077Z - Tires are successfully created and mounted
+2024-02-29T05:57:00.077Z - --------DONE----------
+2024-02-29T05:57:00.078Z - Vehicle is already configured - ST-HS790 - trailers
+2024-02-29T05:57:00.249Z - configured and tires are mounted case
+2024-02-29T05:57:00.249Z - no changes are needed already latest tires are mounted
+2024-02-29T05:57:00.249Z - ---------------DONE------------
+2024-02-29T05:57:00.249Z - Vehicle is already configured - ST-HS795 - trailers
+2024-02-29T05:57:00.426Z - configured and tires are mounted case
+2024-02-29T05:57:00.426Z - no changes are needed already latest tires are mounted
+2024-02-29T05:57:00.426Z - ---------------DONE------------
+2024-02-29T05:57:00.427Z - vehicle found - unconfigured - ST-HS796  - trailers
+2024-02-29T05:57:01.187Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:01.977Z - Tires are successfully created and mounted
+2024-02-29T05:57:01.978Z - --------DONE----------
+2024-02-29T05:57:01.979Z - vehicle found - unconfigured - ST-HS798  - trailers
+2024-02-29T05:57:02.577Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:03.110Z - AxiosError: Request failed with status code 422
+2024-02-29T05:57:03.110Z - error while creating and mounting the tires
+2024-02-29T05:57:03.111Z - vehicle found - unconfigured - ST-HS799  - trailers
+2024-02-29T05:57:03.781Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:04.511Z - Tires are successfully created and mounted
+2024-02-29T05:57:04.511Z - --------DONE----------
+2024-02-29T05:57:04.511Z - Vehicle is already configured - ST-HS803 - trailers
+2024-02-29T05:57:04.719Z - configured and tires are mounted case
+2024-02-29T05:57:04.719Z - no changes are needed already latest tires are mounted
+2024-02-29T05:57:04.719Z - ---------------DONE------------
+2024-02-29T05:57:04.719Z - Vehicle is already configured - ST-HS805 - trailers
+2024-02-29T05:57:04.913Z - configured and tires are mounted case
+2024-02-29T05:57:04.913Z - no changes are needed already latest tires are mounted
+2024-02-29T05:57:04.913Z - ---------------DONE------------
+2024-02-29T05:57:04.913Z - vehicle found - unconfigured - ST-HS807  - trailers
+2024-02-29T05:57:05.524Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:06.381Z - Tires are successfully created and mounted
+2024-02-29T05:57:06.381Z - --------DONE----------
+2024-02-29T05:57:06.382Z - vehicle found - unconfigured - ST-HS811  - trailers
+2024-02-29T05:57:08.338Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:09.021Z - Tires are successfully created and mounted
+2024-02-29T05:57:09.022Z - --------DONE----------
+2024-02-29T05:57:09.022Z - vehicle found - unconfigured - ST-HS815  - trailers
+2024-02-29T05:57:09.635Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:10.429Z - Tires are successfully created and mounted
+2024-02-29T05:57:10.429Z - --------DONE----------
+2024-02-29T05:57:10.430Z - vehicle found - unconfigured - ST-HS817  - trailers
+2024-02-29T05:57:11.103Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:11.993Z - Tires are successfully created and mounted
+2024-02-29T05:57:11.993Z - --------DONE----------
+2024-02-29T05:57:11.994Z - vehicle found - unconfigured - ST-HS818  - trailers
+2024-02-29T05:57:12.585Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:13.303Z - Tires are successfully created and mounted
+2024-02-29T05:57:13.303Z - --------DONE----------
+2024-02-29T05:57:13.304Z - vehicle found - unconfigured - ST-HS819  - trailers
+2024-02-29T05:57:13.888Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:14.634Z - Tires are successfully created and mounted
+2024-02-29T05:57:14.635Z - --------DONE----------
+2024-02-29T05:57:14.636Z - vehicle found - unconfigured - ST-MS289  - trailers
+2024-02-29T05:57:15.281Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:15.993Z - Tires are successfully created and mounted
+2024-02-29T05:57:15.993Z - --------DONE----------
+2024-02-29T05:57:15.993Z - vehicle found - unconfigured - ST-MS356  - trailers
+2024-02-29T05:57:16.604Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:17.421Z - Tires are successfully created and mounted
+2024-02-29T05:57:17.421Z - --------DONE----------
+2024-02-29T05:57:17.422Z - vehicle found - unconfigured - ST-MS486  - trailers
+2024-02-29T05:57:18.182Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:18.859Z - Tires are successfully created and mounted
+2024-02-29T05:57:18.859Z - --------DONE----------
+2024-02-29T05:57:18.860Z - vehicle found - unconfigured - ST-MS492  - trailers
+2024-02-29T05:57:19.567Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:20.283Z - Tires are successfully created and mounted
+2024-02-29T05:57:20.283Z - --------DONE----------
+2024-02-29T05:57:20.283Z - Vehicle is already configured - ST-MS532 - trailers
+2024-02-29T05:57:21.032Z - configured and tires are mounted case
+2024-02-29T05:57:21.032Z - no changes are needed already latest tires are mounted
+2024-02-29T05:57:21.032Z - ---------------DONE------------
+2024-02-29T05:57:21.033Z - vehicle found - unconfigured - ST-MS583  - trailers
+2024-02-29T05:57:21.715Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:22.417Z - Tires are successfully created and mounted
+2024-02-29T05:57:22.417Z - --------DONE----------
+2024-02-29T05:57:22.418Z - Vehicle is already configured - ST-MS584 - trailers
+2024-02-29T05:57:22.591Z - configured and tires are mounted case
+2024-02-29T05:57:22.591Z - no changes are needed already latest tires are mounted
+2024-02-29T05:57:22.591Z - ---------------DONE------------
+2024-02-29T05:57:22.591Z - vehicle found - unconfigured - ST-SI1781  - trucks
+2024-02-29T05:57:23.395Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:24.242Z - Tires are successfully created and mounted
+2024-02-29T05:57:24.242Z - --------DONE----------
+2024-02-29T05:57:24.244Z - vehicle found - unconfigured - ST-SI1870  - trucks
+2024-02-29T05:57:24.912Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:25.614Z - Tires are successfully created and mounted
+2024-02-29T05:57:25.614Z - --------DONE----------
+2024-02-29T05:57:25.615Z - vehicle found - unconfigured - ST-SI1892  - trucks
+2024-02-29T05:57:26.258Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:28.406Z - Tires are successfully created and mounted
+2024-02-29T05:57:28.406Z - --------DONE----------
+2024-02-29T05:57:28.407Z - vehicle found - unconfigured - ST-SI1901  - trucks
+2024-02-29T05:57:29.303Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:30.972Z - Tires are successfully created and mounted
+2024-02-29T05:57:30.972Z - --------DONE----------
+2024-02-29T05:57:30.972Z - vehicle found - unconfigured - ST-SI1905  - trucks
+2024-02-29T05:57:32.561Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:33.136Z - Tires are successfully created and mounted
+2024-02-29T05:57:33.136Z - --------DONE----------
+2024-02-29T05:57:33.138Z - vehicle found - unconfigured - ST-SI1906  - trucks
+2024-02-29T05:57:33.774Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:34.582Z - Tires are successfully created and mounted
+2024-02-29T05:57:34.582Z - --------DONE----------
+2024-02-29T05:57:34.583Z - vehicle found - unconfigured - ST-SI1910  - trucks
+2024-02-29T05:57:35.336Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:36.048Z - Tires are successfully created and mounted
+2024-02-29T05:57:36.048Z - --------DONE----------
+2024-02-29T05:57:36.048Z - vehicle found - unconfigured - ST-SI1911  - trucks
+2024-02-29T05:57:36.734Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:37.552Z - Tires are successfully created and mounted
+2024-02-29T05:57:37.552Z - --------DONE----------
+2024-02-29T05:57:37.552Z - vehicle found - unconfigured - ST-SI1914  - trucks
+2024-02-29T05:57:38.266Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:39.046Z - Tires are successfully created and mounted
+2024-02-29T05:57:39.047Z - --------DONE----------
+2024-02-29T05:57:39.047Z - vehicle found - unconfigured - ST-SI1916  - trucks
+2024-02-29T05:57:39.715Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:40.413Z - Tires are successfully created and mounted
+2024-02-29T05:57:40.413Z - --------DONE----------
+2024-02-29T05:57:40.414Z - vehicle found - unconfigured - ST-SI1918  - trucks
+2024-02-29T05:57:41.019Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:41.680Z - Tires are successfully created and mounted
+2024-02-29T05:57:41.681Z - --------DONE----------
+2024-02-29T05:57:41.682Z - vehicle found - unconfigured - ST-SI1919  - trucks
+2024-02-29T05:57:42.285Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:43.046Z - Tires are successfully created and mounted
+2024-02-29T05:57:43.046Z - --------DONE----------
+2024-02-29T05:57:43.047Z - vehicle found - unconfigured - ST-SI1921  - trucks
+2024-02-29T05:57:43.719Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:44.420Z - Tires are successfully created and mounted
+2024-02-29T05:57:44.420Z - --------DONE----------
+2024-02-29T05:57:44.420Z - vehicle found - unconfigured - ST-SI1932  - trucks
+2024-02-29T05:57:45.028Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:45.719Z - Tires are successfully created and mounted
+2024-02-29T05:57:45.719Z - --------DONE----------
+2024-02-29T05:57:45.720Z - vehicle found - unconfigured - ST-SI1933  - trucks
+2024-02-29T05:57:46.325Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:46.967Z - Tires are successfully created and mounted
+2024-02-29T05:57:46.967Z - --------DONE----------
+2024-02-29T05:57:46.968Z - vehicle found - unconfigured - ST-SI1934  - trucks
+2024-02-29T05:57:47.580Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:50.096Z - Tires are successfully created and mounted
+2024-02-29T05:57:50.096Z - --------DONE----------
+2024-02-29T05:57:50.098Z - vehicle found - unconfigured - ST-SI1936  - trucks
+2024-02-29T05:57:50.723Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:51.420Z - Tires are successfully created and mounted
+2024-02-29T05:57:51.420Z - --------DONE----------
+2024-02-29T05:57:51.420Z - vehicle found - unconfigured - ST-SI1940  - trucks
+2024-02-29T05:57:52.032Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:52.691Z - Tires are successfully created and mounted
+2024-02-29T05:57:52.691Z - --------DONE----------
+2024-02-29T05:57:52.692Z - vehicle found - unconfigured - ST-SI1942  - trucks
+2024-02-29T05:57:53.313Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:54.010Z - Tires are successfully created and mounted
+2024-02-29T05:57:54.010Z - --------DONE----------
+2024-02-29T05:57:54.010Z - vehicle found - unconfigured - ST-SI1950  - trucks
+2024-02-29T05:57:54.609Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:55.350Z - Tires are successfully created and mounted
+2024-02-29T05:57:55.350Z - --------DONE----------
+2024-02-29T05:57:55.351Z - vehicle found - unconfigured - ST-SI1951  - trucks
+2024-02-29T05:57:56.215Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:56.966Z - Tires are successfully created and mounted
+2024-02-29T05:57:56.966Z - --------DONE----------
+2024-02-29T05:57:56.966Z - vehicle found - unconfigured - ST-SI1952  - trucks
+2024-02-29T05:57:57.637Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:58.382Z - Tires are successfully created and mounted
+2024-02-29T05:57:58.382Z - --------DONE----------
+2024-02-29T05:57:58.384Z - vehicle found - unconfigured - ST-SI2001  - trucks
+2024-02-29T05:57:58.998Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:57:59.630Z - Tires are successfully created and mounted
+2024-02-29T05:57:59.630Z - --------DONE----------
+2024-02-29T05:57:59.630Z - vehicle found - unconfigured - ST-SI2005  - trucks
+2024-02-29T05:58:00.303Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:01.072Z - Tires are successfully created and mounted
+2024-02-29T05:58:01.072Z - --------DONE----------
+2024-02-29T05:58:01.072Z - vehicle found - unconfigured - ST-SI2025  - trucks
+2024-02-29T05:58:01.676Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:02.400Z - Tires are successfully created and mounted
+2024-02-29T05:58:02.400Z - --------DONE----------
+2024-02-29T05:58:02.400Z - vehicle found - unconfigured - ST-SI2028  - trucks
+2024-02-29T05:58:03.058Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:03.810Z - Tires are successfully created and mounted
+2024-02-29T05:58:03.810Z - --------DONE----------
+2024-02-29T05:58:03.810Z - vehicle found - unconfigured - ST-SI2035  - trucks
+2024-02-29T05:58:04.537Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:05.281Z - Tires are successfully created and mounted
+2024-02-29T05:58:05.281Z - --------DONE----------
+2024-02-29T05:58:05.285Z - vehicle found - unconfigured - ST-SI2036  - trucks
+2024-02-29T05:58:06.181Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:07.135Z - Tires are successfully created and mounted
+2024-02-29T05:58:07.135Z - --------DONE----------
+2024-02-29T05:58:07.135Z - vehicle found - unconfigured - ST-SI2041  - trucks
+2024-02-29T05:58:08.154Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:08.807Z - Tires are successfully created and mounted
+2024-02-29T05:58:08.807Z - --------DONE----------
+2024-02-29T05:58:08.807Z - Vehicle is already configured - ST-SI2072 - trucks
+2024-02-29T05:58:09.592Z - configured and tires are mounted case
+2024-02-29T05:58:09.592Z - no changes are needed already latest tires are mounted
+2024-02-29T05:58:09.592Z - ---------------DONE------------
+2024-02-29T05:58:09.592Z - vehicle found - unconfigured - ST-SI2073  - trucks
+2024-02-29T05:58:10.196Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:10.857Z - Tires are successfully created and mounted
+2024-02-29T05:58:10.857Z - --------DONE----------
+2024-02-29T05:58:10.857Z - vehicle found - unconfigured - ST-SI2077  - trucks
+2024-02-29T05:58:11.528Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:12.414Z - Tires are successfully created and mounted
+2024-02-29T05:58:12.414Z - --------DONE----------
+2024-02-29T05:58:12.414Z - vehicle found - unconfigured - ST-SI2078  - trucks
+2024-02-29T05:58:13.100Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:13.852Z - Tires are successfully created and mounted
+2024-02-29T05:58:13.852Z - --------DONE----------
+2024-02-29T05:58:13.852Z - vehicle found - unconfigured - ST-SI2088  - trucks
+2024-02-29T05:58:14.584Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:15.248Z - Tires are successfully created and mounted
+2024-02-29T05:58:15.248Z - --------DONE----------
+2024-02-29T05:58:15.249Z - Vehicle is already configured - ST-SI2090 - trucks
+2024-02-29T05:58:15.430Z - configured and tires are mounted case
+2024-02-29T05:58:15.430Z - no changes are needed already latest tires are mounted
+2024-02-29T05:58:15.430Z - ---------------DONE------------
+2024-02-29T05:58:15.432Z - vehicle found - unconfigured - ST-SI2103  - trucks
+2024-02-29T05:58:16.126Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:16.878Z - Tires are successfully created and mounted
+2024-02-29T05:58:16.878Z - --------DONE----------
+2024-02-29T05:58:16.879Z - vehicle found - unconfigured - ST-SI2107  - trucks
+2024-02-29T05:58:17.499Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:18.194Z - Tires are successfully created and mounted
+2024-02-29T05:58:18.194Z - --------DONE----------
+2024-02-29T05:58:18.196Z - vehicle found - unconfigured - ST-SI2109  - trucks
+2024-02-29T05:58:18.821Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:19.498Z - Tires are successfully created and mounted
+2024-02-29T05:58:19.498Z - --------DONE----------
+2024-02-29T05:58:19.499Z - vehicle found - unconfigured - ST-SI2110  - trucks
+2024-02-29T05:58:20.082Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:20.782Z - Tires are successfully created and mounted
+2024-02-29T05:58:20.782Z - --------DONE----------
+2024-02-29T05:58:20.783Z - vehicle found - unconfigured - ST-SI2132  - trucks
+2024-02-29T05:58:21.348Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:22.048Z - Tires are successfully created and mounted
+2024-02-29T05:58:22.048Z - --------DONE----------
+2024-02-29T05:58:22.048Z - vehicle found - unconfigured - ST-SI2138  - trucks
+2024-02-29T05:58:22.624Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:23.253Z - Tires are successfully created and mounted
+2024-02-29T05:58:23.253Z - --------DONE----------
+2024-02-29T05:58:23.254Z - vehicle found - unconfigured - ST-SI2139  - trucks
+2024-02-29T05:58:23.885Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:24.557Z - Tires are successfully created and mounted
+2024-02-29T05:58:24.558Z - --------DONE----------
+2024-02-29T05:58:24.559Z - vehicle found - unconfigured - ST-SI2204  - trucks
+2024-02-29T05:58:25.137Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:25.996Z - Tires are successfully created and mounted
+2024-02-29T05:58:25.996Z - --------DONE----------
+2024-02-29T05:58:25.996Z - vehicle found - unconfigured - ST-SI2209  - trucks
+2024-02-29T05:58:26.620Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:27.303Z - Tires are successfully created and mounted
+2024-02-29T05:58:27.303Z - --------DONE----------
+2024-02-29T05:58:27.304Z - vehicle found - unconfigured - ST-SI2211  - trucks
+2024-02-29T05:58:27.952Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:28.653Z - Tires are successfully created and mounted
+2024-02-29T05:58:28.653Z - --------DONE----------
+2024-02-29T05:58:28.654Z - Vehicle is already configured - ST-SI2212 - trucks
+2024-02-29T05:58:29.397Z - configured and tires are mounted case
+2024-02-29T05:58:29.397Z - no changes are needed already latest tires are mounted
+2024-02-29T05:58:29.397Z - ---------------DONE------------
+2024-02-29T05:58:29.398Z - vehicle found - unconfigured - ST-SI2250  - trucks
+2024-02-29T05:58:30.015Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:30.658Z - Tires are successfully created and mounted
+2024-02-29T05:58:30.658Z - --------DONE----------
+2024-02-29T05:58:30.658Z - vehicle found - unconfigured - ST-SI2251  - trucks
+2024-02-29T05:58:31.244Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:31.924Z - Tires are successfully created and mounted
+2024-02-29T05:58:31.924Z - --------DONE----------
+2024-02-29T05:58:31.925Z - vehicle found - unconfigured - ST-SI2252  - trucks
+2024-02-29T05:58:32.611Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:33.284Z - Tires are successfully created and mounted
+2024-02-29T05:58:33.284Z - --------DONE----------
+2024-02-29T05:58:33.284Z - vehicle found - unconfigured - ST-SI2254  - trucks
+2024-02-29T05:58:33.983Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:34.645Z - Tires are successfully created and mounted
+2024-02-29T05:58:34.645Z - --------DONE----------
+2024-02-29T05:58:34.646Z - vehicle found - unconfigured - ST-SI2257  - trucks
+2024-02-29T05:58:35.250Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:36.020Z - Tires are successfully created and mounted
+2024-02-29T05:58:36.020Z - --------DONE----------
+2024-02-29T05:58:36.020Z - vehicle found - unconfigured - ST-SI2259  - trucks
+2024-02-29T05:58:36.609Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:37.323Z - Tires are successfully created and mounted
+2024-02-29T05:58:37.323Z - --------DONE----------
+2024-02-29T05:58:37.323Z - vehicle found - unconfigured - ST-SI2261  - trucks
+2024-02-29T05:58:37.925Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:38.549Z - Tires are successfully created and mounted
+2024-02-29T05:58:38.549Z - --------DONE----------
+2024-02-29T05:58:38.549Z - vehicle found - unconfigured - ST-SI2262  - trucks
+2024-02-29T05:58:39.197Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:39.941Z - Tires are successfully created and mounted
+2024-02-29T05:58:39.941Z - --------DONE----------
+2024-02-29T05:58:39.941Z - Vehicle is already configured - ST-SI2263 - trucks
+2024-02-29T05:58:40.693Z - configured and tires are mounted case
+2024-02-29T05:58:40.693Z - no changes are needed already latest tires are mounted
+2024-02-29T05:58:40.693Z - ---------------DONE------------
+2024-02-29T05:58:40.693Z - Vehicle is already configured - ST-SI2280 - trucks
+2024-02-29T05:58:40.868Z - configured and tires are mounted case
+2024-02-29T05:58:40.868Z - no changes are needed already latest tires are mounted
+2024-02-29T05:58:40.868Z - ---------------DONE------------
+2024-02-29T05:58:40.869Z - vehicle not found, creating  new  vehicles : ST-SI2282
+2024-02-29T05:58:41.486Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-SI 2282","upload_result":"Upload successful","upload_status":"success"}],"trailer_summary":[],"bus_summary":[]}}
+2024-02-29T05:58:41.486Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:58:42.284Z - Tires are successfully created and mounted
+2024-02-29T05:58:42.284Z - --------DONE----------
+2024-02-29T05:58:42.285Z - vehicle found - unconfigured - ST-SI2283  - trucks
+2024-02-29T05:58:42.909Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:43.541Z - Tires are successfully created and mounted
+2024-02-29T05:58:43.541Z - --------DONE----------
+2024-02-29T05:58:43.542Z - Vehicle is already configured - ST-SI2300 - trucks
+2024-02-29T05:58:43.713Z - configured and tires are mounted case
+2024-02-29T05:58:43.713Z - no changes are needed already latest tires are mounted
+2024-02-29T05:58:43.713Z - ---------------DONE------------
+2024-02-29T05:58:43.714Z - Vehicle is already configured - ST-SI2301 - trucks
+2024-02-29T05:58:43.888Z - configured and tires are mounted case
+2024-02-29T05:58:43.889Z - no changes are needed already latest tires are mounted
+2024-02-29T05:58:43.889Z - ---------------DONE------------
+2024-02-29T05:58:43.889Z - Vehicle is already configured - ST-SI2302 - trucks
+2024-02-29T05:58:44.062Z - configured and tires are mounted case
+2024-02-29T05:58:44.062Z - no changes are needed already latest tires are mounted
+2024-02-29T05:58:44.062Z - ---------------DONE------------
+2024-02-29T05:58:44.063Z - Vehicle is already configured - ST-SI2304 - trucks
+2024-02-29T05:58:44.245Z - configured and tires are mounted case
+2024-02-29T05:58:44.245Z - no changes are needed already latest tires are mounted
+2024-02-29T05:58:44.245Z - ---------------DONE------------
+2024-02-29T05:58:44.246Z - vehicle not found, creating  new  vehicles : ST-SI2305
+2024-02-29T05:58:45.050Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-SI 2305","upload_result":"Upload successful","upload_status":"success"}],"trailer_summary":[],"bus_summary":[]}}
+2024-02-29T05:58:45.050Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:58:45.696Z - Tires are successfully created and mounted
+2024-02-29T05:58:45.696Z - --------DONE----------
+2024-02-29T05:58:45.698Z - Vehicle is already configured - ST-SI2351 - trucks
+2024-02-29T05:58:45.868Z - configured and tires are mounted case
+2024-02-29T05:58:45.868Z - no changes are needed already latest tires are mounted
+2024-02-29T05:58:45.868Z - ---------------DONE------------
+2024-02-29T05:58:45.869Z - Vehicle is already configured - ST-SI2354 - trucks
+2024-02-29T05:58:46.041Z - configured and tires are mounted case
+2024-02-29T05:58:46.041Z - no changes are needed already latest tires are mounted
+2024-02-29T05:58:46.041Z - ---------------DONE------------
+2024-02-29T05:58:46.042Z - Vehicle is already configured - ST-SI2361 - trucks
+2024-02-29T05:58:46.235Z - configured and tires are mounted case
+2024-02-29T05:58:46.235Z - no changes are needed already latest tires are mounted
+2024-02-29T05:58:46.235Z - ---------------DONE------------
+2024-02-29T05:58:46.236Z - vehicle not found, creating  new  vehicles : ST-SI2362
+2024-02-29T05:58:46.876Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-SI 2362","upload_result":"Upload successful","upload_status":"success"}],"trailer_summary":[],"bus_summary":[]}}
+2024-02-29T05:58:46.877Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:58:47.504Z - Tires are successfully created and mounted
+2024-02-29T05:58:47.504Z - --------DONE----------
+2024-02-29T05:58:47.504Z - Vehicle is already configured - ST-SI2363 - trucks
+2024-02-29T05:58:47.675Z - configured and tires are mounted case
+2024-02-29T05:58:47.675Z - no changes are needed already latest tires are mounted
+2024-02-29T05:58:47.675Z - ---------------DONE------------
+2024-02-29T05:58:47.676Z - vehicle not found, creating  new  vehicles : ST-SI2367
+2024-02-29T05:58:48.313Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-SI 2367","upload_result":"Upload successful","upload_status":"success"}],"trailer_summary":[],"bus_summary":[]}}
+2024-02-29T05:58:48.313Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:58:49.003Z - Tires are successfully created and mounted
+2024-02-29T05:58:49.004Z - --------DONE----------
+2024-02-29T05:58:49.004Z - vehicle not found, creating  new  vehicles : ST-SI2368
+2024-02-29T05:58:49.662Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-SI 2368","upload_result":"Upload successful","upload_status":"success"}],"trailer_summary":[],"bus_summary":[]}}
+2024-02-29T05:58:49.662Z - ---------------Vehicles successfully created---------------------
+2024-02-29T05:58:50.373Z - Tires are successfully created and mounted
+2024-02-29T05:58:50.373Z - --------DONE----------
+2024-02-29T05:58:50.374Z - vehicle found - unconfigured - ST-TA1026  - trailers
+2024-02-29T05:58:51.149Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:51.769Z - Tires are successfully created and mounted
+2024-02-29T05:58:51.769Z - --------DONE----------
+2024-02-29T05:58:51.771Z - vehicle found - unconfigured - ST-TA1027  - trailers
+2024-02-29T05:58:52.393Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:53.081Z - Tires are successfully created and mounted
+2024-02-29T05:58:53.081Z - --------DONE----------
+2024-02-29T05:58:53.081Z - vehicle found - unconfigured - ST-TA1029  - trailers
+2024-02-29T05:58:53.642Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:54.315Z - Tires are successfully created and mounted
+2024-02-29T05:58:54.315Z - --------DONE----------
+2024-02-29T05:58:54.315Z - vehicle found - unconfigured - ST-TA1045  - trailers
+2024-02-29T05:58:54.931Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:55.611Z - Tires are successfully created and mounted
+2024-02-29T05:58:55.611Z - --------DONE----------
+2024-02-29T05:58:55.612Z - vehicle found - unconfigured - ST-TA1051  - trailers
+2024-02-29T05:58:56.233Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:56.954Z - Tires are successfully created and mounted
+2024-02-29T05:58:56.954Z - --------DONE----------
+2024-02-29T05:58:56.955Z - vehicle found - unconfigured - ST-TA1054  - trailers
+2024-02-29T05:58:57.529Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:58.187Z - Tires are successfully created and mounted
+2024-02-29T05:58:58.187Z - --------DONE----------
+2024-02-29T05:58:58.189Z - vehicle found - unconfigured - ST-TA1055  - trailers
+2024-02-29T05:58:58.804Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:58:59.458Z - Tires are successfully created and mounted
+2024-02-29T05:58:59.458Z - --------DONE----------
+2024-02-29T05:58:59.458Z - vehicle found - unconfigured - ST-TA1058  - trailers
+2024-02-29T05:59:00.108Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:00.795Z - Tires are successfully created and mounted
+2024-02-29T05:59:00.795Z - --------DONE----------
+2024-02-29T05:59:00.796Z - vehicle found - unconfigured - ST-TA1061  - trailers
+2024-02-29T05:59:01.407Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:02.135Z - Tires are successfully created and mounted
+2024-02-29T05:59:02.135Z - --------DONE----------
+2024-02-29T05:59:02.135Z - vehicle found - unconfigured - ST-TA1062  - trailers
+2024-02-29T05:59:02.726Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:03.482Z - Tires are successfully created and mounted
+2024-02-29T05:59:03.483Z - --------DONE----------
+2024-02-29T05:59:03.485Z - Vehicle is already configured - ST-TA1068 - trailers
+2024-02-29T05:59:04.241Z - configured and tires are mounted case
+2024-02-29T05:59:04.241Z - no changes are needed already latest tires are mounted
+2024-02-29T05:59:04.241Z - ---------------DONE------------
+2024-02-29T05:59:04.242Z - vehicle found - unconfigured - ST-TA1070  - trailers
+2024-02-29T05:59:04.894Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:05.573Z - Tires are successfully created and mounted
+2024-02-29T05:59:05.573Z - --------DONE----------
+2024-02-29T05:59:05.575Z - vehicle found - unconfigured - ST-TA1074  - trailers
+2024-02-29T05:59:06.196Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:06.875Z - Tires are successfully created and mounted
+2024-02-29T05:59:06.875Z - --------DONE----------
+2024-02-29T05:59:06.876Z - vehicle found - unconfigured - ST-TA1082  - trailers
+2024-02-29T05:59:07.469Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:08.123Z - Tires are successfully created and mounted
+2024-02-29T05:59:08.123Z - --------DONE----------
+2024-02-29T05:59:08.124Z - vehicle found - unconfigured - ST-TA1091  - trailers
+2024-02-29T05:59:08.737Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:09.405Z - Tires are successfully created and mounted
+2024-02-29T05:59:09.405Z - --------DONE----------
+2024-02-29T05:59:09.406Z - vehicle found - unconfigured - ST-TA1092  - trailers
+2024-02-29T05:59:10.030Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:10.775Z - Tires are successfully created and mounted
+2024-02-29T05:59:10.775Z - --------DONE----------
+2024-02-29T05:59:10.775Z - vehicle found - unconfigured - ST-TA1093  - trailers
+2024-02-29T05:59:11.388Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:11.919Z - AxiosError: Request failed with status code 422
+2024-02-29T05:59:11.919Z - error while creating and mounting the tires
+2024-02-29T05:59:11.920Z - vehicle found - unconfigured - ST-TA127  - trailers
+2024-02-29T05:59:12.529Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:13.195Z - Tires are successfully created and mounted
+2024-02-29T05:59:13.195Z - --------DONE----------
+2024-02-29T05:59:13.195Z - vehicle found - unconfigured - ST-TA156  - trailers
+2024-02-29T05:59:13.853Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:14.571Z - Tires are successfully created and mounted
+2024-02-29T05:59:14.571Z - --------DONE----------
+2024-02-29T05:59:14.572Z - vehicle found - unconfigured - ST-TA1814  - trucks
+2024-02-29T05:59:15.188Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:15.848Z - Tires are successfully created and mounted
+2024-02-29T05:59:15.849Z - --------DONE----------
+2024-02-29T05:59:15.849Z - vehicle found - unconfigured - ST-TA1900  - trucks
+2024-02-29T05:59:17.448Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:18.115Z - Tires are successfully created and mounted
+2024-02-29T05:59:18.115Z - --------DONE----------
+2024-02-29T05:59:18.116Z - vehicle found - unconfigured - ST-TA1904  - trucks
+2024-02-29T05:59:18.717Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:19.375Z - Tires are successfully created and mounted
+2024-02-29T05:59:19.375Z - --------DONE----------
+2024-02-29T05:59:19.375Z - vehicle found - unconfigured - ST-TA1908  - trucks
+2024-02-29T05:59:20.020Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:20.800Z - Tires are successfully created and mounted
+2024-02-29T05:59:20.800Z - --------DONE----------
+2024-02-29T05:59:20.801Z - vehicle found - unconfigured - ST-TA1952  - trucks
+2024-02-29T05:59:21.485Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:22.227Z - Tires are successfully created and mounted
+2024-02-29T05:59:22.228Z - --------DONE----------
+2024-02-29T05:59:22.229Z - vehicle found - unconfigured - ST-TA1955  - trucks
+2024-02-29T05:59:22.887Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:23.581Z - Tires are successfully created and mounted
+2024-02-29T05:59:23.581Z - --------DONE----------
+2024-02-29T05:59:23.581Z - vehicle found - unconfigured - ST-TA2004  - trailers
+2024-02-29T05:59:24.202Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:24.992Z - Tires are successfully created and mounted
+2024-02-29T05:59:24.992Z - --------DONE----------
+2024-02-29T05:59:24.992Z - Vehicle is already configured - ST-TA2005 - trailers
+2024-02-29T05:59:25.721Z - configured and tires are mounted case
+2024-02-29T05:59:25.721Z - no changes are needed already latest tires are mounted
+2024-02-29T05:59:25.721Z - ---------------DONE------------
+2024-02-29T05:59:25.722Z - vehicle found - unconfigured - ST-TA2007  - trailers
+2024-02-29T05:59:26.329Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:27.052Z - Tires are successfully created and mounted
+2024-02-29T05:59:27.052Z - --------DONE----------
+2024-02-29T05:59:27.053Z - vehicle found - unconfigured - ST-TA2013  - trucks
+2024-02-29T05:59:27.653Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:28.319Z - Tires are successfully created and mounted
+2024-02-29T05:59:28.319Z - --------DONE----------
+2024-02-29T05:59:28.320Z - Vehicle is already configured - ST-TA2022 - trucks
+2024-02-29T05:59:28.496Z - configured and tires are mounted case
+2024-02-29T05:59:28.496Z - no changes are needed already latest tires are mounted
+2024-02-29T05:59:28.496Z - ---------------DONE------------
+2024-02-29T05:59:28.496Z - Vehicle is already configured - ST-TA2023 - trucks
+2024-02-29T05:59:28.675Z - configured but no tires are mounted case - manual entry suggested
+2024-02-29T05:59:28.675Z - ------------------DONE-------------
+2024-02-29T05:59:28.677Z - Vehicle is already configured - ST-TA2027 - trucks
+2024-02-29T05:59:28.855Z - configured and tires are mounted case
+2024-02-29T05:59:28.855Z - no changes are needed already latest tires are mounted
+2024-02-29T05:59:28.855Z - ---------------DONE------------
+2024-02-29T05:59:28.856Z - vehicle found - unconfigured - ST-TA2028  - trucks
+2024-02-29T05:59:29.467Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:30.124Z - Tires are successfully created and mounted
+2024-02-29T05:59:30.124Z - --------DONE----------
+2024-02-29T05:59:30.125Z - vehicle found - unconfigured - ST-TA2029  - trailers
+2024-02-29T05:59:30.757Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:31.463Z - Tires are successfully created and mounted
+2024-02-29T05:59:31.463Z - --------DONE----------
+2024-02-29T05:59:31.464Z - vehicle found - unconfigured - ST-TA2031  - trucks
+2024-02-29T05:59:32.069Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:32.723Z - Tires are successfully created and mounted
+2024-02-29T05:59:32.723Z - --------DONE----------
+2024-02-29T05:59:32.724Z - vehicle found - unconfigured - ST-TA2036  - trucks
+2024-02-29T05:59:33.329Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:34.080Z - Tires are successfully created and mounted
+2024-02-29T05:59:34.080Z - --------DONE----------
+2024-02-29T05:59:34.080Z - vehicle found - unconfigured - ST-TA2037  - trucks
+2024-02-29T05:59:34.707Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:35.424Z - Tires are successfully created and mounted
+2024-02-29T05:59:35.424Z - --------DONE----------
+2024-02-29T05:59:35.424Z - vehicle found - unconfigured - ST-TA2039  - trailers
+2024-02-29T05:59:36.024Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:36.757Z - Tires are successfully created and mounted
+2024-02-29T05:59:36.757Z - --------DONE----------
+2024-02-29T05:59:36.758Z - vehicle found - unconfigured - ST-TA2049  - trailers
+2024-02-29T05:59:37.363Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:38.094Z - Tires are successfully created and mounted
+2024-02-29T05:59:38.094Z - --------DONE----------
+2024-02-29T05:59:38.095Z - vehicle found - unconfigured - ST-TA2062  - trucks
+2024-02-29T05:59:38.825Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:39.528Z - Tires are successfully created and mounted
+2024-02-29T05:59:39.528Z - --------DONE----------
+2024-02-29T05:59:39.529Z - vehicle found - unconfigured - ST-TA2063  - trucks
+2024-02-29T05:59:40.149Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:40.803Z - Tires are successfully created and mounted
+2024-02-29T05:59:40.803Z - --------DONE----------
+2024-02-29T05:59:40.804Z - vehicle found - unconfigured - ST-TA2069  - trailers
+2024-02-29T05:59:41.441Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:42.266Z - Tires are successfully created and mounted
+2024-02-29T05:59:42.266Z - --------DONE----------
+2024-02-29T05:59:42.267Z - vehicle found - unconfigured - ST-TA2079  - trailers
+2024-02-29T05:59:42.969Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:43.756Z - Tires are successfully created and mounted
+2024-02-29T05:59:43.756Z - --------DONE----------
+2024-02-29T05:59:43.757Z - vehicle found - unconfigured - ST-TA2102  - trucks
+2024-02-29T05:59:44.435Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:45.167Z - Tires are successfully created and mounted
+2024-02-29T05:59:45.167Z - --------DONE----------
+2024-02-29T05:59:45.168Z - vehicle found - unconfigured - ST-TA2110  - trucks
+2024-02-29T05:59:45.763Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:46.499Z - Tires are successfully created and mounted
+2024-02-29T05:59:46.499Z - --------DONE----------
+2024-02-29T05:59:46.500Z - vehicle found - unconfigured - ST-TA2111  - trucks
+2024-02-29T05:59:47.119Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:47.816Z - Tires are successfully created and mounted
+2024-02-29T05:59:47.816Z - --------DONE----------
+2024-02-29T05:59:47.818Z - vehicle found - unconfigured - ST-TA2113  - trucks
+2024-02-29T05:59:48.480Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:49.242Z - Tires are successfully created and mounted
+2024-02-29T05:59:49.243Z - --------DONE----------
+2024-02-29T05:59:49.243Z - vehicle found - unconfigured - ST-TA2116  - trucks
+2024-02-29T05:59:49.863Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:50.586Z - Tires are successfully created and mounted
+2024-02-29T05:59:50.586Z - --------DONE----------
+2024-02-29T05:59:50.587Z - vehicle found - unconfigured - ST-TA2141  - trucks
+2024-02-29T05:59:51.254Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:51.991Z - Tires are successfully created and mounted
+2024-02-29T05:59:51.992Z - --------DONE----------
+2024-02-29T05:59:51.992Z - vehicle found - unconfigured - ST-TA2142  - trucks
+2024-02-29T05:59:52.588Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:53.247Z - Tires are successfully created and mounted
+2024-02-29T05:59:53.247Z - --------DONE----------
+2024-02-29T05:59:53.248Z - vehicle found - unconfigured - ST-TA2144  - trucks
+2024-02-29T05:59:53.839Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:54.735Z - Tires are successfully created and mounted
+2024-02-29T05:59:54.735Z - --------DONE----------
+2024-02-29T05:59:54.736Z - vehicle found - unconfigured - ST-TA2145  - trucks
+2024-02-29T05:59:55.346Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:56.133Z - Tires are successfully created and mounted
+2024-02-29T05:59:56.133Z - --------DONE----------
+2024-02-29T05:59:56.135Z - vehicle found - unconfigured - ST-TA2148  - trucks
+2024-02-29T05:59:56.805Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:57.516Z - Tires are successfully created and mounted
+2024-02-29T05:59:57.516Z - --------DONE----------
+2024-02-29T05:59:57.516Z - vehicle found - unconfigured - ST-TA2149  - trucks
+2024-02-29T05:59:58.176Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T05:59:58.855Z - Tires are successfully created and mounted
+2024-02-29T05:59:58.855Z - --------DONE----------
+2024-02-29T05:59:58.856Z - vehicle found - unconfigured - ST-TA2151  - trucks
+2024-02-29T05:59:59.442Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:00.321Z - Tires are successfully created and mounted
+2024-02-29T06:00:00.321Z - --------DONE----------
+2024-02-29T06:00:00.323Z - Vehicle is already configured - ST-TA2189 - trailers
+2024-02-29T06:00:01.201Z - configured and tires are mounted case
+2024-02-29T06:00:01.201Z - no changes are needed already latest tires are mounted
+2024-02-29T06:00:01.201Z - ---------------DONE------------
+2024-02-29T06:00:01.201Z - vehicle found - unconfigured - ST-TA2200  - trucks
+2024-02-29T06:00:01.980Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:02.895Z - Tires are successfully created and mounted
+2024-02-29T06:00:02.895Z - --------DONE----------
+2024-02-29T06:00:02.897Z - vehicle found - unconfigured - ST-TA2202  - trucks
+2024-02-29T06:00:03.676Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:04.572Z - Tires are successfully created and mounted
+2024-02-29T06:00:04.572Z - --------DONE----------
+2024-02-29T06:00:04.573Z - vehicle found - unconfigured - ST-TA2204  - trucks
+2024-02-29T06:00:05.351Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:06.204Z - Tires are successfully created and mounted
+2024-02-29T06:00:06.204Z - --------DONE----------
+2024-02-29T06:00:06.205Z - Vehicle is already configured - ST-TA2228 - trucks
+2024-02-29T06:00:06.387Z - configured and tires are mounted case
+2024-02-29T06:00:06.387Z - no changes are needed already latest tires are mounted
+2024-02-29T06:00:06.387Z - ---------------DONE------------
+2024-02-29T06:00:06.388Z - vehicle found - unconfigured - ST-TA2230  - trucks
+2024-02-29T06:00:07.150Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:07.894Z - Tires are successfully created and mounted
+2024-02-29T06:00:07.894Z - --------DONE----------
+2024-02-29T06:00:07.894Z - vehicle found - unconfigured - ST-TA2231  - trucks
+2024-02-29T06:00:08.500Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:09.186Z - Tires are successfully created and mounted
+2024-02-29T06:00:09.187Z - --------DONE----------
+2024-02-29T06:00:09.188Z - vehicle found - unconfigured - ST-TA2235  - trucks
+2024-02-29T06:00:09.896Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:10.707Z - Tires are successfully created and mounted
+2024-02-29T06:00:10.707Z - --------DONE----------
+2024-02-29T06:00:10.707Z - vehicle found - unconfigured - ST-TA2299  - trailers
+2024-02-29T06:00:11.423Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:12.177Z - Tires are successfully created and mounted
+2024-02-29T06:00:12.177Z - --------DONE----------
+2024-02-29T06:00:12.177Z - vehicle not found, creating  new  vehicles : ST-TA2397
+2024-02-29T06:00:12.876Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-TA 2397","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T06:00:12.876Z - ---------------Vehicles successfully created---------------------
+2024-02-29T06:00:13.585Z - Tires are successfully created and mounted
+2024-02-29T06:00:13.585Z - --------DONE----------
+2024-02-29T06:00:13.586Z - vehicle found - unconfigured - ST-TA3002  - trailers
+2024-02-29T06:00:14.158Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:15.009Z - Tires are successfully created and mounted
+2024-02-29T06:00:15.009Z - --------DONE----------
+2024-02-29T06:00:15.009Z - Vehicle is already configured - ST-TA3014 - trailers
+2024-02-29T06:00:15.220Z - configured but no tires are mounted case - manual entry suggested
+2024-02-29T06:00:15.220Z - ------------------DONE-------------
+2024-02-29T06:00:15.222Z - vehicle found - unconfigured - ST-TA307  - trailers
+2024-02-29T06:00:15.921Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:16.650Z - Tires are successfully created and mounted
+2024-02-29T06:00:16.650Z - --------DONE----------
+2024-02-29T06:00:16.650Z - vehicle found - unconfigured - ST-TA3070  - trailers
+2024-02-29T06:00:17.305Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:18.038Z - Tires are successfully created and mounted
+2024-02-29T06:00:18.038Z - --------DONE----------
+2024-02-29T06:00:18.039Z - vehicle found - unconfigured - ST-TA3080  - trailers
+2024-02-29T06:00:18.773Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:19.507Z - Tires are successfully created and mounted
+2024-02-29T06:00:19.507Z - --------DONE----------
+2024-02-29T06:00:19.510Z - vehicle found - unconfigured - ST-TA3100  - trailers
+2024-02-29T06:00:20.148Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:20.836Z - Tires are successfully created and mounted
+2024-02-29T06:00:20.836Z - --------DONE----------
+2024-02-29T06:00:20.836Z - vehicle found - unconfigured - ST-TA326  - trailers
+2024-02-29T06:00:21.430Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:22.114Z - Tires are successfully created and mounted
+2024-02-29T06:00:22.114Z - --------DONE----------
+2024-02-29T06:00:22.114Z - Vehicle is already configured - ST-TA3300 - trailers
+2024-02-29T06:00:22.297Z - configured and tires are mounted case
+2024-02-29T06:00:22.297Z - no changes are needed already latest tires are mounted
+2024-02-29T06:00:22.297Z - ---------------DONE------------
+2024-02-29T06:00:22.298Z - vehicle found - unconfigured - ST-TA3500  - trailers
+2024-02-29T06:00:22.998Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:23.763Z - Tires are successfully created and mounted
+2024-02-29T06:00:23.763Z - --------DONE----------
+2024-02-29T06:00:23.764Z - vehicle found - unconfigured - ST-TA3600  - trailers
+2024-02-29T06:00:24.410Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:25.108Z - Tires are successfully created and mounted
+2024-02-29T06:00:25.108Z - --------DONE----------
+2024-02-29T06:00:25.110Z - vehicle found - unconfigured - ST-TA4002  - trailers
+2024-02-29T06:00:25.952Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:26.760Z - Tires are successfully created and mounted
+2024-02-29T06:00:26.760Z - --------DONE----------
+2024-02-29T06:00:26.760Z - Vehicle is already configured - ST-TA4003 - trailers
+2024-02-29T06:00:26.948Z - configured and tires are mounted case
+2024-02-29T06:00:26.948Z - no changes are needed already latest tires are mounted
+2024-02-29T06:00:26.948Z - ---------------DONE------------
+2024-02-29T06:00:26.949Z - Vehicle is already configured - ST-TA4004 - trailers
+2024-02-29T06:00:27.129Z - configured and tires are mounted case
+2024-02-29T06:00:27.129Z - no changes are needed already latest tires are mounted
+2024-02-29T06:00:27.129Z - ---------------DONE------------
+2024-02-29T06:00:27.131Z - vehicle not found, creating  new  vehicles : ST-TA4005
+2024-02-29T06:00:27.900Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-TA 4005","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T06:00:27.900Z - ---------------Vehicles successfully created---------------------
+2024-02-29T06:00:28.617Z - Tires are successfully created and mounted
+2024-02-29T06:00:28.617Z - --------DONE----------
+2024-02-29T06:00:28.617Z - vehicle not found, creating  new  vehicles : ST-TA4016
+2024-02-29T06:00:29.221Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-TA 4016","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T06:00:29.222Z - ---------------Vehicles successfully created---------------------
+2024-02-29T06:00:29.968Z - Tires are successfully created and mounted
+2024-02-29T06:00:29.968Z - --------DONE----------
+2024-02-29T06:00:29.968Z - vehicle found - unconfigured - ST-TA4018  - trailers
+2024-02-29T06:00:30.582Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:31.340Z - Tires are successfully created and mounted
+2024-02-29T06:00:31.340Z - --------DONE----------
+2024-02-29T06:00:31.341Z - vehicle found - unconfigured - ST-TA4022  - trailers
+2024-02-29T06:00:31.967Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:32.639Z - Tires are successfully created and mounted
+2024-02-29T06:00:32.639Z - --------DONE----------
+2024-02-29T06:00:32.640Z - Vehicle is already configured - ST-TA425 - trailers
+2024-02-29T06:00:32.822Z - configured and tires are mounted case
+2024-02-29T06:00:32.822Z - no changes are needed already latest tires are mounted
+2024-02-29T06:00:32.822Z - ---------------DONE------------
+2024-02-29T06:00:32.824Z - vehicle found - unconfigured - ST-TA426  - trailers
+2024-02-29T06:00:33.444Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:34.127Z - Tires are successfully created and mounted
+2024-02-29T06:00:34.127Z - --------DONE----------
+2024-02-29T06:00:34.129Z - vehicle found - unconfigured - ST-TA430  - trailers
+2024-02-29T06:00:34.699Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:35.410Z - Tires are successfully created and mounted
+2024-02-29T06:00:35.410Z - --------DONE----------
+2024-02-29T06:00:35.410Z - vehicle found - unconfigured - ST-TA52  - trailers
+2024-02-29T06:00:36.065Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:36.721Z - Tires are successfully created and mounted
+2024-02-29T06:00:36.721Z - --------DONE----------
+2024-02-29T06:00:36.721Z - vehicle found - unconfigured - ST-U5469  - trailers
+2024-02-29T06:00:37.329Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:38.097Z - Tires are successfully created and mounted
+2024-02-29T06:00:38.097Z - --------DONE----------
+2024-02-29T06:00:38.097Z - vehicle found - unconfigured - ST-V6942  - trailers
+2024-02-29T06:00:38.750Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:39.475Z - Tires are successfully created and mounted
+2024-02-29T06:00:39.475Z - --------DONE----------
+2024-02-29T06:00:39.475Z - vehicle found - unconfigured - ST-X1106  - trailers
+2024-02-29T06:00:40.229Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:40.919Z - Tires are successfully created and mounted
+2024-02-29T06:00:40.919Z - --------DONE----------
+2024-02-29T06:00:40.920Z - vehicle not found, creating  new  vehicles : ST-X7391
+2024-02-29T06:00:42.142Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-X7 391","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T06:00:42.142Z - ---------------Vehicles successfully created---------------------
+2024-02-29T06:00:42.875Z - Tires are successfully created and mounted
+2024-02-29T06:00:42.875Z - --------DONE----------
+2024-02-29T06:00:42.875Z - vehicle found - unconfigured - ST-X7392  - trailers
+2024-02-29T06:00:43.494Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:44.251Z - Tires are successfully created and mounted
+2024-02-29T06:00:44.251Z - --------DONE----------
+2024-02-29T06:00:44.251Z - vehicle not found, creating  new  vehicles : ST-Y2209
+2024-02-29T06:00:45.018Z - {"status_code":200,"return_message":"Fleet data update summary for the given customer.","resp":{"fleet":{"customer_id":"kwMzYzMTc","fleet_id":"9v0eftjz9bk","fleet_name":"STR NEW-2","location":"Hamburg","last_updated_timestamp":1709109169,"last_updated_by":"428a2378-9605-4060-bd3a-e4445605e1d6","created_by":"428a2378-9605-4060-bd3a-e4445605e1d6"},"truck_summary":[],"trailer_summary":[{"fleet_name":"STR NEW-2","vehicle_name":"ST-Y2 209","upload_result":"Upload successful","upload_status":"success"}],"bus_summary":[]}}
+2024-02-29T06:00:45.018Z - ---------------Vehicles successfully created---------------------
+2024-02-29T06:00:45.819Z - Tires are successfully created and mounted
+2024-02-29T06:00:45.819Z - --------DONE----------
+2024-02-29T06:00:45.821Z - vehicle found - unconfigured - ST-YE472  - trailers
+2024-02-29T06:00:46.444Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:47.490Z - Tires are successfully created and mounted
+2024-02-29T06:00:47.490Z - --------DONE----------
+2024-02-29T06:00:47.491Z - vehicle found - unconfigured - ST-YE473  - trailers
+2024-02-29T06:00:48.202Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:48.881Z - Tires are successfully created and mounted
+2024-02-29T06:00:48.881Z - --------DONE----------
+2024-02-29T06:00:48.883Z - vehicle found - unconfigured - ST-Z5906  - trailers
+2024-02-29T06:00:49.544Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:50.244Z - Tires are successfully created and mounted
+2024-02-29T06:00:50.244Z - --------DONE----------
+2024-02-29T06:00:50.244Z - vehicle found - unconfigured - ST-Z6420  - trailers
+2024-02-29T06:00:50.932Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:51.759Z - Tires are successfully created and mounted
+2024-02-29T06:00:51.759Z - --------DONE----------
+2024-02-29T06:00:51.760Z - Vehicle is already configured - ST-Z6430 - trailers
+2024-02-29T06:00:52.639Z - configured and tires are mounted case
+2024-02-29T06:00:52.639Z - no changes are needed already latest tires are mounted
+2024-02-29T06:00:52.639Z - ---------------DONE------------
+2024-02-29T06:00:52.640Z - vehicle found - unconfigured - ST-Z8420  - trailers
+2024-02-29T06:00:53.272Z - Vehicle is successfully configured -- proceeding to mount
+2024-02-29T06:00:53.979Z - Tires are successfully created and mounted
+2024-02-29T06:00:53.979Z - --------DONE----------

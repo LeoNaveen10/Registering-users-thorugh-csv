@@ -1,0 +1,150 @@
+2024-03-06T10:13:02.861Z - Vehicle is already configured - ST-GS2124 - trucks
+2024-03-06T10:13:02.873Z - configured and tires are mounted case
+2024-03-06T10:13:02.873Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:13:02.873Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:13:02.873Z - no changes are needed already latest tires are mounted
+2024-03-06T10:13:02.873Z - ---------------DONE------------
+2024-03-06T10:13:02.873Z - Vehicle is already configured - ST-GS4154 - trailers
+2024-03-06T10:13:02.879Z - configured and tires are mounted case
+2024-03-06T10:13:02.879Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:13:02.879Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:13:02.879Z - no changes are needed already latest tires are mounted
+2024-03-06T10:13:02.879Z - ---------------DONE------------
+2024-03-06T10:13:02.880Z - vehicle found - unconfigured - ST-C9002  - trailers
+2024-03-06T10:13:02.880Z - Vehicle is already configured - ST-HS2027 - trailers
+2024-03-06T10:13:02.886Z - configured and tires are mounted case
+2024-03-06T10:13:02.886Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:13:02.886Z - [object Object]
+2024-03-06T10:13:02.886Z - no changes are needed already latest tires are mounted
+2024-03-06T10:13:02.886Z - ---------------DONE------------
+2024-03-06T10:13:02.886Z - Vehicle is already configured - ST-HS337 - trailers
+2024-03-06T10:13:02.891Z - configured and tires are mounted case
+2024-03-06T10:13:02.891Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:13:02.891Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:13:02.891Z - no changes are needed already latest tires are mounted
+2024-03-06T10:13:02.891Z - ---------------DONE------------
+2024-03-06T10:13:02.892Z - Vehicle is already configured - ST-SI2077 - trucks
+2024-03-06T10:13:02.897Z - configured and tires are mounted case
+2024-03-06T10:13:02.897Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:13:02.897Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:13:02.897Z - no changes are needed already latest tires are mounted
+2024-03-06T10:13:02.897Z - ---------------DONE------------
+2024-03-06T10:13:02.898Z - Vehicle is already configured - ST-SI2362 - trucks
+2024-03-06T10:13:02.903Z - configured and tires are mounted case
+2024-03-06T10:13:02.903Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:13:02.903Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:13:02.903Z - no changes are needed already latest tires are mounted
+2024-03-06T10:13:02.903Z - ---------------DONE------------
+2024-03-06T10:13:02.904Z - Vehicle is already configured - ST-TA1082 - trailers
+2024-03-06T10:13:02.909Z - configured and tires are mounted case
+2024-03-06T10:13:02.909Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:13:02.909Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:13:02.909Z - no changes are needed already latest tires are mounted
+2024-03-06T10:13:02.909Z - ---------------DONE------------
+2024-03-06T10:13:02.909Z - Vehicle is already configured - ST-TA426 - trailers
+2024-03-06T10:13:02.915Z - configured and tires are mounted case
+2024-03-06T10:13:02.915Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:13:02.915Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:13:02.915Z - no changes are needed already latest tires are mounted
+2024-03-06T10:13:02.915Z - ---------------DONE------------
+2024-03-06T10:13:02.915Z - [object Object]
+2024-03-06T10:16:30.501Z - Vehicle is already configured - ST-GS2124 - trucks
+2024-03-06T10:16:30.513Z - configured and tires are mounted case
+2024-03-06T10:16:30.513Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:16:30.513Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:16:30.514Z - no changes are needed already latest tires are mounted
+2024-03-06T10:16:30.514Z - ---------------DONE------------
+2024-03-06T10:16:30.514Z - Vehicle is already configured - ST-GS4154 - trailers
+2024-03-06T10:16:30.521Z - configured and tires are mounted case
+2024-03-06T10:16:30.521Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:16:30.521Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:16:30.521Z - no changes are needed already latest tires are mounted
+2024-03-06T10:16:30.521Z - ---------------DONE------------
+2024-03-06T10:16:30.521Z - vehicle found - unconfigured - ST-C9002  - trailers
+2024-03-06T10:16:30.521Z - Vehicle is already configured - ST-HS2027 - trailers
+2024-03-06T10:16:30.527Z - configured and tires are mounted case
+2024-03-06T10:16:30.527Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:16:30.527Z - [object Object]
+2024-03-06T10:16:30.527Z - no changes are needed already latest tires are mounted
+2024-03-06T10:16:30.527Z - ---------------DONE------------
+2024-03-06T10:16:30.528Z - Vehicle is already configured - ST-HS337 - trailers
+2024-03-06T10:16:30.535Z - configured and tires are mounted case
+2024-03-06T10:16:30.535Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:16:30.535Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:16:30.535Z - no changes are needed already latest tires are mounted
+2024-03-06T10:16:30.535Z - ---------------DONE------------
+2024-03-06T10:16:30.535Z - Vehicle is already configured - ST-SI2077 - trucks
+2024-03-06T10:16:30.542Z - configured and tires are mounted case
+2024-03-06T10:16:30.542Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:16:30.542Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:16:30.542Z - no changes are needed already latest tires are mounted
+2024-03-06T10:16:30.542Z - ---------------DONE------------
+2024-03-06T10:16:30.542Z - Vehicle is already configured - ST-SI2362 - trucks
+2024-03-06T10:16:30.549Z - configured and tires are mounted case
+2024-03-06T10:16:30.549Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:16:30.549Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:16:30.549Z - no changes are needed already latest tires are mounted
+2024-03-06T10:16:30.549Z - ---------------DONE------------
+2024-03-06T10:16:30.550Z - Vehicle is already configured - ST-TA1082 - trailers
+2024-03-06T10:16:30.556Z - configured and tires are mounted case
+2024-03-06T10:16:30.556Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:16:30.556Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:16:30.556Z - no changes are needed already latest tires are mounted
+2024-03-06T10:16:30.556Z - ---------------DONE------------
+2024-03-06T10:16:30.557Z - Vehicle is already configured - ST-TA426 - trailers
+2024-03-06T10:16:30.564Z - configured and tires are mounted case
+2024-03-06T10:16:30.564Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:16:30.564Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:16:30.564Z - no changes are needed already latest tires are mounted
+2024-03-06T10:16:30.564Z - ---------------DONE------------
+2024-03-06T10:16:30.564Z - [object Object]
+2024-03-06T10:17:05.693Z - Vehicle is already configured - ST-GS2124 - trucks
+2024-03-06T10:17:05.708Z - configured and tires are mounted case
+2024-03-06T10:17:05.708Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:17:05.708Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:17:05.708Z - no changes are needed already latest tires are mounted
+2024-03-06T10:17:05.708Z - ---------------DONE------------
+2024-03-06T10:17:05.708Z - Vehicle is already configured - ST-GS4154 - trailers
+2024-03-06T10:17:05.716Z - configured and tires are mounted case
+2024-03-06T10:17:05.716Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:17:05.716Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:17:05.716Z - no changes are needed already latest tires are mounted
+2024-03-06T10:17:05.716Z - ---------------DONE------------
+2024-03-06T10:17:05.716Z - vehicle found - unconfigured - ST-C9002  - trailers
+2024-03-06T10:17:05.717Z - Vehicle is already configured - ST-HS2027 - trailers
+2024-03-06T10:17:05.724Z - configured and tires are mounted case
+2024-03-06T10:17:05.724Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:17:05.724Z - [object Object]
+2024-03-06T10:17:05.724Z - no changes are needed already latest tires are mounted
+2024-03-06T10:17:05.724Z - ---------------DONE------------
+2024-03-06T10:17:05.724Z - Vehicle is already configured - ST-HS337 - trailers
+2024-03-06T10:17:05.732Z - configured and tires are mounted case
+2024-03-06T10:17:05.732Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:17:05.732Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:17:05.732Z - no changes are needed already latest tires are mounted
+2024-03-06T10:17:05.732Z - ---------------DONE------------
+2024-03-06T10:17:05.732Z - Vehicle is already configured - ST-SI2077 - trucks
+2024-03-06T10:17:05.739Z - configured and tires are mounted case
+2024-03-06T10:17:05.739Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:17:05.739Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:17:05.739Z - no changes are needed already latest tires are mounted
+2024-03-06T10:17:05.739Z - ---------------DONE------------
+2024-03-06T10:17:05.739Z - Vehicle is already configured - ST-SI2362 - trucks
+2024-03-06T10:17:05.747Z - configured and tires are mounted case
+2024-03-06T10:17:05.747Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:17:05.747Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:17:05.747Z - no changes are needed already latest tires are mounted
+2024-03-06T10:17:05.747Z - ---------------DONE------------
+2024-03-06T10:17:05.748Z - Vehicle is already configured - ST-TA1082 - trailers
+2024-03-06T10:17:05.755Z - configured and tires are mounted case
+2024-03-06T10:17:05.755Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:17:05.755Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:17:05.755Z - no changes are needed already latest tires are mounted
+2024-03-06T10:17:05.755Z - ---------------DONE------------
+2024-03-06T10:17:05.755Z - Vehicle is already configured - ST-TA426 - trailers
+2024-03-06T10:17:05.762Z - configured and tires are mounted case
+2024-03-06T10:17:05.762Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:17:05.762Z - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-03-06T10:17:05.762Z - no changes are needed already latest tires are mounted
+2024-03-06T10:17:05.762Z - ---------------DONE------------
+2024-03-06T10:17:05.763Z - {"vehiclenotPresent":0,"unconfig":1,"configTiresMounted":0,"configTiresNotPresent":0,"configChangeDateYes":0,"configChangeDateNo":8}
